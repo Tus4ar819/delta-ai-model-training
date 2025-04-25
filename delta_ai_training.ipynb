@@ -1,0 +1,232 @@
+{
+  "nbformat": 4,
+  "nbformat_minor": 0,
+  "metadata": {
+    "colab": {
+      "provenance": [],
+      "gpuType": "T4",
+      "authorship_tag": "ABX9TyPWHBjoxtverC4XscIi9P3P",
+      "include_colab_link": true
+    },
+    "kernelspec": {
+      "name": "python3",
+      "display_name": "Python 3"
+    },
+    "language_info": {
+      "name": "python"
+    },
+    "accelerator": "GPU"
+  },
+  "cells": [
+    {
+      "cell_type": "markdown",
+      "metadata": {
+        "id": "view-in-github",
+        "colab_type": "text"
+      },
+      "source": [
+        "<a href=\"https://colab.research.google.com/github/Tus4ar819/delta-ai-model-training/blob/main/delta_ai_training.ipynb\" target=\"_parent\"><img src=\"https://colab.research.google.com/assets/colab-badge.svg\" alt=\"Open In Colab\"/></a>"
+      ]
+    },
+    {
+      "cell_type": "code",
+      "execution_count": null,
+      "metadata": {
+        "collapsed": true,
+        "id": "GsGf-2eLrtCf"
+      },
+      "outputs": [],
+      "source": [
+        "!pip install transformers datasets torch flask accelerate fsspec==2025.3.2"
+      ]
+    },
+    {
+      "cell_type": "code",
+      "source": [
+        "!pip install datasets"
+      ],
+      "metadata": {
+        "collapsed": true,
+        "id": "F1i5-yxzuSwr"
+      },
+      "execution_count": null,
+      "outputs": []
+    },
+    {
+      "cell_type": "code",
+      "source": [
+        "!pip install transformers datasets seqeval"
+      ],
+      "metadata": {
+        "id": "aA5UjnnUuRg4"
+      },
+      "execution_count": null,
+      "outputs": []
+    },
+    {
+      "cell_type": "markdown",
+      "source": [],
+      "metadata": {
+        "id": "HCQhqPzusDWN"
+      }
+    },
+    {
+      "cell_type": "code",
+      "source": [
+        "import json\n",
+        "from datasets import Dataset\n",
+        "from transformers import AutoTokenizer, AutoModelForTokenClassification, TrainingArguments, Trainer, DataCollatorForTokenClassification, pipeline\n",
+        "\n",
+        "# Load your data\n",
+        "with open('training_600.jsonl', 'r') as f:\n",
+        "    data = [json.loads(line) for line in f]\n",
+        "\n",
+        "# Build label list\n",
+        "all_labels = set()\n",
+        "for item in data:\n",
+        "     if 'labels' in item:\n",
+        "        for ent in item['labels']:\n",
+        "            all_labels.add(ent['type'])\n",
+        "label_types = sorted(list(all_labels))\n",
+        "bio_labels = ['O'] + [f'B-{l}' for l in label_types] + [f'I-{l}' for l in label_types]\n",
+        "label2id = {l: i for i, l in enumerate(bio_labels)}\n",
+        "id2label = {i: l for l, i in label2id.items()}\n",
+        "\n",
+        "# Helper to create BIO tags for a sentence\n",
+        "def create_bio_tags(sentence, entities):\n",
+        "    words = sentence.split()\n",
+        "    tags = ['O'] * len(words)\n",
+        "    for ent in entities:\n",
+        "        ent_words = ent['text'].split()\n",
+        "        for i in range(len(words) - len(ent_words) + 1):\n",
+        "            if words[i:i+len(ent_words)] == ent_words:\n",
+        "                tags[i] = f'B-{ent[\"type\"]}'\n",
+        "                for j in range(1, len(ent_words)):\n",
+        "                    tags[i+j] = f'I-{ent[\"type\"]}'\n",
+        "    return tags\n",
+        "\n",
+        "# Prepare examples\n",
+        "# ...existing code...\n",
+        "examples = []\n",
+        "for item in data:\n",
+        "    if 'labels' in item:\n",
+        "        words = item['queries'].split()\n",
+        "        tags = create_bio_tags(item['queries'], item['labels'])\n",
+        "        examples.append({'tokens': words, 'ner_tags': [label2id[tag] for tag in tags]})\n",
+        "# ...existing code...\n",
+        "\n",
+        "# Create Hugging Face Dataset\n",
+        "dataset = Dataset.from_dict({\n",
+        "    'tokens': [ex['tokens'] for ex in examples],\n",
+        "    'ner_tags': [ex['ner_tags'] for ex in examples]\n",
+        "})\n",
+        "\n",
+        "# Tokenize\n",
+        "tokenizer = AutoTokenizer.from_pretrained(\"distilbert-base-uncased\")\n",
+        "\n",
+        "def tokenize_and_align_labels(example):\n",
+        "    tokenized_inputs = tokenizer(example[\"tokens\"], is_split_into_words=True, truncation=True, padding='max_length', max_length=64)\n",
+        "    labels = []\n",
+        "    word_ids = tokenized_inputs.word_ids()\n",
+        "    previous_word_idx = None\n",
+        "    for word_idx in word_ids:\n",
+        "        if word_idx is None:\n",
+        "            labels.append(-100)\n",
+        "        elif word_idx != previous_word_idx:\n",
+        "            labels.append(example[\"ner_tags\"][word_idx])\n",
+        "        else:\n",
+        "            labels.append(-100)\n",
+        "        previous_word_idx = word_idx\n",
+        "    tokenized_inputs[\"labels\"] = labels\n",
+        "    return tokenized_inputs\n",
+        "\n",
+        "tokenized_dataset = dataset.map(tokenize_and_align_labels, batched=False)\n",
+        "\n",
+        "# Model\n",
+        "model = AutoModelForTokenClassification.from_pretrained(\n",
+        "    \"distilbert-base-uncased\",\n",
+        "    num_labels=len(bio_labels),\n",
+        "    id2label=id2label,\n",
+        "    label2id=label2id\n",
+        ")\n",
+        "\n",
+        "# Data collator\n",
+        "data_collator = DataCollatorForTokenClassification(tokenizer)\n",
+        "\n",
+        "# Training arguments\n",
+        "args = TrainingArguments(\n",
+        "    output_dir=\"ner_out\",\n",
+        "    per_device_train_batch_size=8,\n",
+        "    num_train_epochs=3,\n",
+        "    logging_dir=\"ner_logs\",\n",
+        "    report_to=\"none\"\n",
+        ")\n",
+        "\n",
+        "# Trainer\n",
+        "trainer = Trainer(\n",
+        "    model=model,\n",
+        "    args=args,\n",
+        "    train_dataset=tokenized_dataset,\n",
+        "    data_collator=data_collator,\n",
+        "    tokenizer=tokenizer\n",
+        ")\n",
+        "\n",
+        "# Train\n",
+        "trainer.train()\n",
+        "\n",
+        "# Save model and tokenizer\n",
+        "model.save_pretrained(\"my_trained_ner_model\")\n",
+        "tokenizer.save_pretrained(\"my_trained_ner_model\")\n",
+        "\n",
+        "# Inference pipeline\n",
+        "ner_pipeline = pipeline(\"ner\", model=\"my_trained_ner_model\", tokenizer=\"my_trained_ner_model\", aggregation_strategy=\"simple\")\n",
+        "\n",
+        "# Example prediction\n",
+        "test_sentence = \"Alice Smith adopted a cat named Leo in Paris.\"\n",
+        "result = ner_pipeline(test_sentence)\n",
+        "print(result)"
+      ],
+      "metadata": {
+        "id": "jAmk5eRnsD6Y"
+      },
+      "execution_count": null,
+      "outputs": []
+    },
+    {
+      "cell_type": "code",
+      "source": [
+        "# Inference pipeline\n",
+        "ner_pipeline = pipeline(\"ner\", model=\"my_trained_ner_model\", tokenizer=\"my_trained_ner_model\", aggregation_strategy=\"simple\")\n",
+        "\n",
+        "# Example queries covering all entity types\n",
+        "example_queries = [\n",
+        "    \"Alice Smith adopted a cat named Leo in Paris.\",  # PERSON, ANIMAL, CITY\n",
+        "    \"Tesla launched its new Taj Mahal in New York.\",  # ORG, THING, CITY\n",
+        "    \"Emma Davis, originally from Australia, now lives in Paris.\",  # PERSON, COUNTRY, CITY\n",
+        "    \"A wild lion was spotted near the Great Wall of China in Canada.\",  # ANIMAL, THING, COUNTRY\n",
+        "    \"During the Comic-Con, John Doe gave a speech at the Great Wall of China.\",  # EVENT, PERSON, THING\n",
+        "    \"The Amazon headquarters are located in Paris, Italy.\",  # ORG, CITY, COUNTRY\n",
+        "    \"In Japan, people celebrate Olympic Games with great enthusiasm.\",  # COUNTRY, EVENT\n",
+        "    \"The Statue of Liberty has become a symbol of New York's history.\",  # THING, CITY\n",
+        "    \"Researchers at IBM discovered a new species of dolphin in Italy.\",  # ORG, ANIMAL, COUNTRY\n",
+        "    \"Every year, the Cannes Festival is held in Sydney, attracting visitors worldwide.\"  # EVENT, CITY\n",
+        "]\n",
+        "\n",
+        "for query in example_queries:\n",
+        "    result = ner_pipeline(query)\n",
+        "    print(f\"Query: {query}\")\n",
+        "    if result:\n",
+        "        for ent in result:\n",
+        "            print(f\"  Entity: '{ent['word']}' | Type: {ent['entity_group']} | Score: {ent['score']:.2f}\")\n",
+        "    else:\n",
+        "        print(\"  No entities found.\")\n",
+        "    print(\"-\")\n"
+      ],
+      "metadata": {
+        "id": "VuWA0rX9bkEe"
+      },
+      "execution_count": null,
+      "outputs": []
+    }
+  ]
+}
