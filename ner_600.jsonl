@@ -1,0 +1,600 @@
+{"queries": "John Doe, originally from UK, now lives in Rome.", "labels": [{"text": "John Doe", "type": "PERSON"}, {"text": "UK", "type": "COUNTRY"}, {"text": "Rome", "type": "CITY"}]}
+{"queries": "Tourists love to take photos of the Mount Fuji near Sydney.", "labels": [{"text": "Mount Fuji", "type": "THING"}, {"text": "Sydney", "type": "CITY"}]}
+{"queries": "The Taj Mahal in Toronto was built in the 19th century.", "labels": [{"text": "Taj Mahal", "type": "THING"}, {"text": "Toronto", "type": "CITY"}]}
+{"queries": "Bob Johnson attended the Coachella hosted by Facebook.", "labels": [{"text": "Bob Johnson", "type": "PERSON"}, {"text": "Coachella", "type": "EVENT"}, {"text": "Facebook", "type": "ORG"}]}
+{"queries": "Carol White, originally from Australia, now lives in Tokyo.", "labels": [{"text": "Carol White", "type": "PERSON"}, {"text": "Australia", "type": "COUNTRY"}, {"text": "Tokyo", "type": "CITY"}]}
+{"queries": "During the Coachella, Irene Taylor gave a speech at the Mount Fuji.", "labels": [{"text": "Coachella", "type": "EVENT"}, {"text": "Irene Taylor", "type": "PERSON"}, {"text": "Mount Fuji", "type": "THING"}]}
+{"queries": "NASA donated millions to support education in Italy.", "labels": [{"text": "NASA", "type": "ORG"}, {"text": "Italy", "type": "COUNTRY"}]}
+{"queries": "Alice Smith attended the Coachella hosted by Amazon.", "labels": [{"text": "Alice Smith", "type": "PERSON"}, {"text": "Coachella", "type": "EVENT"}, {"text": "Amazon", "type": "ORG"}]}
+{"queries": "The Eiffel Tower has become a symbol of Tokyo's history.", "labels": [{"text": "Eiffel Tower", "type": "THING"}, {"text": "Tokyo", "type": "CITY"}]}
+{"queries": "John Doe attended the SXSW hosted by Tesla.", "labels": [{"text": "John Doe", "type": "PERSON"}, {"text": "SXSW", "type": "EVENT"}, {"text": "Tesla", "type": "ORG"}]}
+{"queries": "Frank Wilson attended the World Cup hosted by Google.", "labels": [{"text": "Frank Wilson", "type": "PERSON"}, {"text": "World Cup", "type": "EVENT"}, {"text": "Google", "type": "ORG"}]}
+{"queries": "Researchers at UNICEF discovered a new species of elephant in Germany.", "labels": [{"text": "UNICEF", "type": "ORG"}, {"text": "elephant", "type": "ANIMAL"}, {"text": "Germany", "type": "COUNTRY"}]}
+{"queries": "David Brown attended the Olympic Games hosted by WHO.", "labels": [{"text": "David Brown", "type": "PERSON"}, {"text": "Olympic Games", "type": "EVENT"}, {"text": "WHO", "type": "ORG"}]}
+{"queries": "The UNICEF headquarters are located in Beijing, Italy.", "labels": [{"text": "UNICEF", "type": "ORG"}, {"text": "Beijing", "type": "CITY"}, {"text": "Italy", "type": "COUNTRY"}]}
+{"queries": "Grace Lee from New York works at Microsoft.", "labels": [{"text": "Grace Lee", "type": "PERSON"}, {"text": "New York", "type": "CITY"}, {"text": "Microsoft", "type": "ORG"}]}
+{"queries": "The Statue of Liberty has become a symbol of Beijing's history.", "labels": [{"text": "Statue of Liberty", "type": "THING"}, {"text": "Beijing", "type": "CITY"}]}
+{"queries": "Frank Wilson from Sydney works at Facebook.", "labels": [{"text": "Frank Wilson", "type": "PERSON"}, {"text": "Sydney", "type": "CITY"}, {"text": "Facebook", "type": "ORG"}]}
+{"queries": "The painting Pyramids of Giza was stolen from the Google museum in Beijing.", "labels": [{"text": "Pyramids of Giza", "type": "THING"}, {"text": "Google", "type": "ORG"}, {"text": "Beijing", "type": "CITY"}]}
+{"queries": "The Statue of Liberty has become a symbol of Rome's history.", "labels": [{"text": "Statue of Liberty", "type": "THING"}, {"text": "Rome", "type": "CITY"}]}
+{"queries": "The Facebook headquarters are located in Tokyo, UK.", "labels": [{"text": "Facebook", "type": "ORG"}, {"text": "Tokyo", "type": "CITY"}, {"text": "UK", "type": "COUNTRY"}]}
+{"queries": "In Italy, people celebrate CES with great enthusiasm.", "labels": [{"text": "Italy", "type": "COUNTRY"}, {"text": "CES", "type": "EVENT"}]}
+{"queries": "Grace Lee adopted a tiger named Daisy.", "labels": [{"text": "Grace Lee", "type": "PERSON"}, {"text": "tiger", "type": "ANIMAL"}, {"text": "Daisy", "type": "ANIMAL"}]}
+{"queries": "The Pyramids of Giza has become a symbol of Sydney's history.", "labels": [{"text": "Pyramids of Giza", "type": "THING"}, {"text": "Sydney", "type": "CITY"}]}
+{"queries": "Apple donated millions to support education in UK.", "labels": [{"text": "Apple", "type": "ORG"}, {"text": "UK", "type": "COUNTRY"}]}
+{"queries": "NASA launched its new Statue of Liberty in Paris.", "labels": [{"text": "NASA", "type": "ORG"}, {"text": "Statue of Liberty", "type": "THING"}, {"text": "Paris", "type": "CITY"}]}
+{"queries": "Emma Davis attended the TED Talk hosted by Apple.", "labels": [{"text": "Emma Davis", "type": "PERSON"}, {"text": "TED Talk", "type": "EVENT"}, {"text": "Apple", "type": "ORG"}]}
+{"queries": "Emma Davis attended the TED Talk hosted by Tesla.", "labels": [{"text": "Emma Davis", "type": "PERSON"}, {"text": "TED Talk", "type": "EVENT"}, {"text": "Tesla", "type": "ORG"}]}
+{"queries": "The Taj Mahal in Toronto was built in the 19th century.", "labels": [{"text": "Taj Mahal", "type": "THING"}, {"text": "Toronto", "type": "CITY"}]}
+{"queries": "A wild tiger was spotted near the Grand Canyon in Italy.", "labels": [{"text": "tiger", "type": "ANIMAL"}, {"text": "Grand Canyon", "type": "THING"}, {"text": "Italy", "type": "COUNTRY"}]}
+{"queries": "Tesla donated millions to support education in USA.", "labels": [{"text": "Tesla", "type": "ORG"}, {"text": "USA", "type": "COUNTRY"}]}
+{"queries": "In Germany, people celebrate Comic-Con with great enthusiasm.", "labels": [{"text": "Germany", "type": "COUNTRY"}, {"text": "Comic-Con", "type": "EVENT"}]}
+{"queries": "Google donated millions to support education in USA.", "labels": [{"text": "Google", "type": "ORG"}, {"text": "USA", "type": "COUNTRY"}]}
+{"queries": "Tourists love to take photos of the Big Ben near Rome.", "labels": [{"text": "Big Ben", "type": "THING"}, {"text": "Rome", "type": "CITY"}]}
+{"queries": "During the Cannes Festival, John Doe gave a speech at the Taj Mahal.", "labels": [{"text": "Cannes Festival", "type": "EVENT"}, {"text": "John Doe", "type": "PERSON"}, {"text": "Taj Mahal", "type": "THING"}]}
+{"queries": "In Spain, people celebrate SXSW with great enthusiasm.", "labels": [{"text": "Spain", "type": "COUNTRY"}, {"text": "SXSW", "type": "EVENT"}]}
+{"queries": "During the World Cup, David Brown gave a speech at the Great Wall of China.", "labels": [{"text": "World Cup", "type": "EVENT"}, {"text": "David Brown", "type": "PERSON"}, {"text": "Great Wall of China", "type": "THING"}]}
+{"queries": "The NASA headquarters are located in Madrid, UK.", "labels": [{"text": "NASA", "type": "ORG"}, {"text": "Madrid", "type": "CITY"}, {"text": "UK", "type": "COUNTRY"}]}
+{"queries": "Apple donated millions to support education in France.", "labels": [{"text": "Apple", "type": "ORG"}, {"text": "France", "type": "COUNTRY"}]}
+{"queries": "A wild elephant was spotted near the Colosseum in Australia.", "labels": [{"text": "elephant", "type": "ANIMAL"}, {"text": "Colosseum", "type": "THING"}, {"text": "Australia", "type": "COUNTRY"}]}
+{"queries": "The Grand Canyon has become a symbol of Tokyo's history.", "labels": [{"text": "Grand Canyon", "type": "THING"}, {"text": "Tokyo", "type": "CITY"}]}
+{"queries": "Henry Clark adopted a cat named Luna.", "labels": [{"text": "Henry Clark", "type": "PERSON"}, {"text": "cat", "type": "ANIMAL"}, {"text": "Luna", "type": "ANIMAL"}]}
+{"queries": "Every year, the CES is held in Toronto, attracting visitors worldwide.", "labels": [{"text": "CES", "type": "EVENT"}, {"text": "Toronto", "type": "CITY"}]}
+{"queries": "David Brown visited London last summer to see the Statue of Liberty.", "labels": [{"text": "David Brown", "type": "PERSON"}, {"text": "London", "type": "CITY"}, {"text": "Statue of Liberty", "type": "THING"}]}
+{"queries": "Emma Davis attended the CES hosted by WHO.", "labels": [{"text": "Emma Davis", "type": "PERSON"}, {"text": "CES", "type": "EVENT"}, {"text": "WHO", "type": "ORG"}]}
+{"queries": "The Colosseum in Beijing was built in the 19th century.", "labels": [{"text": "Colosseum", "type": "THING"}, {"text": "Beijing", "type": "CITY"}]}
+{"queries": "The Colosseum in Madrid was built in the 19th century.", "labels": [{"text": "Colosseum", "type": "THING"}, {"text": "Madrid", "type": "CITY"}]}
+{"queries": "Henry Clark, originally from China, now lives in Berlin.", "labels": [{"text": "Henry Clark", "type": "PERSON"}, {"text": "China", "type": "COUNTRY"}, {"text": "Berlin", "type": "CITY"}]}
+{"queries": "Irene Taylor adopted a dolphin named Leo.", "labels": [{"text": "Irene Taylor", "type": "PERSON"}, {"text": "dolphin", "type": "ANIMAL"}, {"text": "Leo", "type": "ANIMAL"}]}
+{"queries": "Bob Johnson attended the Comic-Con hosted by Apple.", "labels": [{"text": "Bob Johnson", "type": "PERSON"}, {"text": "Comic-Con", "type": "EVENT"}, {"text": "Apple", "type": "ORG"}]}
+{"queries": "A wild dolphin was spotted near the Statue of Liberty in Germany.", "labels": [{"text": "dolphin", "type": "ANIMAL"}, {"text": "Statue of Liberty", "type": "THING"}, {"text": "Germany", "type": "COUNTRY"}]}
+{"queries": "Microsoft donated millions to support education in Japan.", "labels": [{"text": "Microsoft", "type": "ORG"}, {"text": "Japan", "type": "COUNTRY"}]}
+{"queries": "The Eiffel Tower has become a symbol of London's history.", "labels": [{"text": "Eiffel Tower", "type": "THING"}, {"text": "London", "type": "CITY"}]}
+{"queries": "Microsoft donated millions to support education in China.", "labels": [{"text": "Microsoft", "type": "ORG"}, {"text": "China", "type": "COUNTRY"}]}
+{"queries": "UNICEF donated millions to support education in Canada.", "labels": [{"text": "UNICEF", "type": "ORG"}, {"text": "Canada", "type": "COUNTRY"}]}
+{"queries": "The Big Ben in Beijing was built in the 19th century.", "labels": [{"text": "Big Ben", "type": "THING"}, {"text": "Beijing", "type": "CITY"}]}
+{"queries": "During the World Cup, Carol White gave a speech at the Statue of Liberty.", "labels": [{"text": "World Cup", "type": "EVENT"}, {"text": "Carol White", "type": "PERSON"}, {"text": "Statue of Liberty", "type": "THING"}]}
+{"queries": "Emma Davis from Berlin works at WHO.", "labels": [{"text": "Emma Davis", "type": "PERSON"}, {"text": "Berlin", "type": "CITY"}, {"text": "WHO", "type": "ORG"}]}
+{"queries": "The UNICEF headquarters are located in Toronto, France.", "labels": [{"text": "UNICEF", "type": "ORG"}, {"text": "Toronto", "type": "CITY"}, {"text": "France", "type": "COUNTRY"}]}
+{"queries": "Microsoft launched its new Taj Mahal in Beijing.", "labels": [{"text": "Microsoft", "type": "ORG"}, {"text": "Taj Mahal", "type": "THING"}, {"text": "Beijing", "type": "CITY"}]}
+{"queries": "A wild tiger was spotted near the Pyramids of Giza in Japan.", "labels": [{"text": "tiger", "type": "ANIMAL"}, {"text": "Pyramids of Giza", "type": "THING"}, {"text": "Japan", "type": "COUNTRY"}]}
+{"queries": "During the Olympic Games, Frank Wilson gave a speech at the Mount Fuji.", "labels": [{"text": "Olympic Games", "type": "EVENT"}, {"text": "Frank Wilson", "type": "PERSON"}, {"text": "Mount Fuji", "type": "THING"}]}
+{"queries": "Henry Clark adopted a elephant named Rover.", "labels": [{"text": "Henry Clark", "type": "PERSON"}, {"text": "elephant", "type": "ANIMAL"}, {"text": "Rover", "type": "ANIMAL"}]}
+{"queries": "The painting Grand Canyon was stolen from the Google museum in Paris.", "labels": [{"text": "Grand Canyon", "type": "THING"}, {"text": "Google", "type": "ORG"}, {"text": "Paris", "type": "CITY"}]}
+{"queries": "A wild cat was spotted near the Mount Fuji in Australia.", "labels": [{"text": "cat", "type": "ANIMAL"}, {"text": "Mount Fuji", "type": "THING"}, {"text": "Australia", "type": "COUNTRY"}]}
+{"queries": "The Great Wall of China in Rome was built in the 19th century.", "labels": [{"text": "Great Wall of China", "type": "THING"}, {"text": "Rome", "type": "CITY"}]}
+{"queries": "Researchers at IBM discovered a new species of cat in Spain.", "labels": [{"text": "IBM", "type": "ORG"}, {"text": "cat", "type": "ANIMAL"}, {"text": "Spain", "type": "COUNTRY"}]}
+{"queries": "Researchers at IBM discovered a new species of cat in Japan.", "labels": [{"text": "IBM", "type": "ORG"}, {"text": "cat", "type": "ANIMAL"}, {"text": "Japan", "type": "COUNTRY"}]}
+{"queries": "Every year, the World Cup is held in London, attracting visitors worldwide.", "labels": [{"text": "World Cup", "type": "EVENT"}, {"text": "London", "type": "CITY"}]}
+{"queries": "Tourists love to take photos of the Statue of Liberty near Berlin.", "labels": [{"text": "Statue of Liberty", "type": "THING"}, {"text": "Berlin", "type": "CITY"}]}
+{"queries": "The Great Wall of China has become a symbol of Sydney's history.", "labels": [{"text": "Great Wall of China", "type": "THING"}, {"text": "Sydney", "type": "CITY"}]}
+{"queries": "Researchers at Tesla discovered a new species of panda in China.", "labels": [{"text": "Tesla", "type": "ORG"}, {"text": "panda", "type": "ANIMAL"}, {"text": "China", "type": "COUNTRY"}]}
+{"queries": "Google launched its new Taj Mahal in Paris.", "labels": [{"text": "Google", "type": "ORG"}, {"text": "Taj Mahal", "type": "THING"}, {"text": "Paris", "type": "CITY"}]}
+{"queries": "Emma Davis adopted a tiger named Bella.", "labels": [{"text": "Emma Davis", "type": "PERSON"}, {"text": "tiger", "type": "ANIMAL"}, {"text": "Bella", "type": "ANIMAL"}]}
+{"queries": "During the SXSW, Grace Lee gave a speech at the Statue of Liberty.", "labels": [{"text": "SXSW", "type": "EVENT"}, {"text": "Grace Lee", "type": "PERSON"}, {"text": "Statue of Liberty", "type": "THING"}]}
+{"queries": "The Big Ben has become a symbol of Berlin's history.", "labels": [{"text": "Big Ben", "type": "THING"}, {"text": "Berlin", "type": "CITY"}]}
+{"queries": "The Taj Mahal has become a symbol of Beijing's history.", "labels": [{"text": "Taj Mahal", "type": "THING"}, {"text": "Beijing", "type": "CITY"}]}
+{"queries": "The Colosseum in Sydney was built in the 19th century.", "labels": [{"text": "Colosseum", "type": "THING"}, {"text": "Sydney", "type": "CITY"}]}
+{"queries": "Irene Taylor, originally from Spain, now lives in Beijing.", "labels": [{"text": "Irene Taylor", "type": "PERSON"}, {"text": "Spain", "type": "COUNTRY"}, {"text": "Beijing", "type": "CITY"}]}
+{"queries": "Tourists love to take photos of the Taj Mahal near Beijing.", "labels": [{"text": "Taj Mahal", "type": "THING"}, {"text": "Beijing", "type": "CITY"}]}
+{"queries": "Researchers at Amazon discovered a new species of panda in China.", "labels": [{"text": "Amazon", "type": "ORG"}, {"text": "panda", "type": "ANIMAL"}, {"text": "China", "type": "COUNTRY"}]}
+{"queries": "A wild eagle was spotted near the Colosseum in Germany.", "labels": [{"text": "eagle", "type": "ANIMAL"}, {"text": "Colosseum", "type": "THING"}, {"text": "Germany", "type": "COUNTRY"}]}
+{"queries": "David Brown attended the Coachella hosted by Amazon.", "labels": [{"text": "David Brown", "type": "PERSON"}, {"text": "Coachella", "type": "EVENT"}, {"text": "Amazon", "type": "ORG"}]}
+{"queries": "UNICEF launched its new Big Ben in Sydney.", "labels": [{"text": "UNICEF", "type": "ORG"}, {"text": "Big Ben", "type": "THING"}, {"text": "Sydney", "type": "CITY"}]}
+{"queries": "IBM launched its new Colosseum in Sydney.", "labels": [{"text": "IBM", "type": "ORG"}, {"text": "Colosseum", "type": "THING"}, {"text": "Sydney", "type": "CITY"}]}
+{"queries": "WHO donated millions to support education in UK.", "labels": [{"text": "WHO", "type": "ORG"}, {"text": "UK", "type": "COUNTRY"}]}
+{"queries": "Tourists love to take photos of the Colosseum near Sydney.", "labels": [{"text": "Colosseum", "type": "THING"}, {"text": "Sydney", "type": "CITY"}]}
+{"queries": "Bob Johnson from Beijing works at NASA.", "labels": [{"text": "Bob Johnson", "type": "PERSON"}, {"text": "Beijing", "type": "CITY"}, {"text": "NASA", "type": "ORG"}]}
+{"queries": "Researchers at Amazon discovered a new species of lion in Canada.", "labels": [{"text": "Amazon", "type": "ORG"}, {"text": "lion", "type": "ANIMAL"}, {"text": "Canada", "type": "COUNTRY"}]}
+{"queries": "The Great Wall of China in Sydney was built in the 19th century.", "labels": [{"text": "Great Wall of China", "type": "THING"}, {"text": "Sydney", "type": "CITY"}]}
+{"queries": "In Germany, people celebrate TED Talk with great enthusiasm.", "labels": [{"text": "Germany", "type": "COUNTRY"}, {"text": "TED Talk", "type": "EVENT"}]}
+{"queries": "Emma Davis attended the TED Talk hosted by WHO.", "labels": [{"text": "Emma Davis", "type": "PERSON"}, {"text": "TED Talk", "type": "EVENT"}, {"text": "WHO", "type": "ORG"}]}
+{"queries": "Every year, the World Cup is held in Tokyo, attracting visitors worldwide.", "labels": [{"text": "World Cup", "type": "EVENT"}, {"text": "Tokyo", "type": "CITY"}]}
+{"queries": "The Statue of Liberty in Berlin was built in the 19th century.", "labels": [{"text": "Statue of Liberty", "type": "THING"}, {"text": "Berlin", "type": "CITY"}]}
+{"queries": "Researchers at Microsoft discovered a new species of panda in China.", "labels": [{"text": "Microsoft", "type": "ORG"}, {"text": "panda", "type": "ANIMAL"}, {"text": "China", "type": "COUNTRY"}]}
+{"queries": "The UNICEF headquarters are located in Paris, Germany.", "labels": [{"text": "UNICEF", "type": "ORG"}, {"text": "Paris", "type": "CITY"}, {"text": "Germany", "type": "COUNTRY"}]}
+{"queries": "Every year, the CES is held in Beijing, attracting visitors worldwide.", "labels": [{"text": "CES", "type": "EVENT"}, {"text": "Beijing", "type": "CITY"}]}
+{"queries": "John Doe visited Paris last summer to see the Eiffel Tower.", "labels": [{"text": "John Doe", "type": "PERSON"}, {"text": "Paris", "type": "CITY"}, {"text": "Eiffel Tower", "type": "THING"}]}
+{"queries": "In Germany, people celebrate World Cup with great enthusiasm.", "labels": [{"text": "Germany", "type": "COUNTRY"}, {"text": "World Cup", "type": "EVENT"}]}
+{"queries": "In France, people celebrate CES with great enthusiasm.", "labels": [{"text": "France", "type": "COUNTRY"}, {"text": "CES", "type": "EVENT"}]}
+{"queries": "Alice Smith adopted a kangaroo named Milo.", "labels": [{"text": "Alice Smith", "type": "PERSON"}, {"text": "kangaroo", "type": "ANIMAL"}, {"text": "Milo", "type": "ANIMAL"}]}
+{"queries": "During the SXSW, Frank Wilson gave a speech at the Great Wall of China.", "labels": [{"text": "SXSW", "type": "EVENT"}, {"text": "Frank Wilson", "type": "PERSON"}, {"text": "Great Wall of China", "type": "THING"}]}
+{"queries": "Bob Johnson visited Tokyo last summer to see the Colosseum.", "labels": [{"text": "Bob Johnson", "type": "PERSON"}, {"text": "Tokyo", "type": "CITY"}, {"text": "Colosseum", "type": "THING"}]}
+{"queries": "John Doe visited New York last summer to see the Golden Gate Bridge.", "labels": [{"text": "John Doe", "type": "PERSON"}, {"text": "New York", "type": "CITY"}, {"text": "Golden Gate Bridge", "type": "THING"}]}
+{"queries": "The painting Great Wall of China was stolen from the Tesla museum in London.", "labels": [{"text": "Great Wall of China", "type": "THING"}, {"text": "Tesla", "type": "ORG"}, {"text": "London", "type": "CITY"}]}
+{"queries": "Tourists love to take photos of the Great Wall of China near Sydney.", "labels": [{"text": "Great Wall of China", "type": "THING"}, {"text": "Sydney", "type": "CITY"}]}
+{"queries": "NASA launched its new Mount Fuji in Sydney.", "labels": [{"text": "NASA", "type": "ORG"}, {"text": "Mount Fuji", "type": "THING"}, {"text": "Sydney", "type": "CITY"}]}
+{"queries": "In Japan, people celebrate CES with great enthusiasm.", "labels": [{"text": "Japan", "type": "COUNTRY"}, {"text": "CES", "type": "EVENT"}]}
+{"queries": "John Doe visited Sydney last summer to see the Eiffel Tower.", "labels": [{"text": "John Doe", "type": "PERSON"}, {"text": "Sydney", "type": "CITY"}, {"text": "Eiffel Tower", "type": "THING"}]}
+{"queries": "Tourists love to take photos of the Grand Canyon near Beijing.", "labels": [{"text": "Grand Canyon", "type": "THING"}, {"text": "Beijing", "type": "CITY"}]}
+{"queries": "Carol White attended the Coachella hosted by Tesla.", "labels": [{"text": "Carol White", "type": "PERSON"}, {"text": "Coachella", "type": "EVENT"}, {"text": "Tesla", "type": "ORG"}]}
+{"queries": "David Brown attended the TED Talk hosted by Amazon.", "labels": [{"text": "David Brown", "type": "PERSON"}, {"text": "TED Talk", "type": "EVENT"}, {"text": "Amazon", "type": "ORG"}]}
+{"queries": "Tesla donated millions to support education in Germany.", "labels": [{"text": "Tesla", "type": "ORG"}, {"text": "Germany", "type": "COUNTRY"}]}
+{"queries": "The Great Wall of China has become a symbol of New York's history.", "labels": [{"text": "Great Wall of China", "type": "THING"}, {"text": "New York", "type": "CITY"}]}
+{"queries": "The Golden Gate Bridge in New York was built in the 19th century.", "labels": [{"text": "Golden Gate Bridge", "type": "THING"}, {"text": "New York", "type": "CITY"}]}
+{"queries": "Carol White adopted a cat named Rover.", "labels": [{"text": "Carol White", "type": "PERSON"}, {"text": "cat", "type": "ANIMAL"}, {"text": "Rover", "type": "ANIMAL"}]}
+{"queries": "Researchers at Facebook discovered a new species of bear in Japan.", "labels": [{"text": "Facebook", "type": "ORG"}, {"text": "bear", "type": "ANIMAL"}, {"text": "Japan", "type": "COUNTRY"}]}
+{"queries": "A wild bear was spotted near the Statue of Liberty in Germany.", "labels": [{"text": "bear", "type": "ANIMAL"}, {"text": "Statue of Liberty", "type": "THING"}, {"text": "Germany", "type": "COUNTRY"}]}
+{"queries": "Researchers at Apple discovered a new species of dog in UK.", "labels": [{"text": "Apple", "type": "ORG"}, {"text": "dog", "type": "ANIMAL"}, {"text": "UK", "type": "COUNTRY"}]}
+{"queries": "Every year, the World Cup is held in Paris, attracting visitors worldwide.", "labels": [{"text": "World Cup", "type": "EVENT"}, {"text": "Paris", "type": "CITY"}]}
+{"queries": "Apple donated millions to support education in Australia.", "labels": [{"text": "Apple", "type": "ORG"}, {"text": "Australia", "type": "COUNTRY"}]}
+{"queries": "Tourists love to take photos of the Golden Gate Bridge near Sydney.", "labels": [{"text": "Golden Gate Bridge", "type": "THING"}, {"text": "Sydney", "type": "CITY"}]}
+{"queries": "Alice Smith adopted a elephant named Max.", "labels": [{"text": "Alice Smith", "type": "PERSON"}, {"text": "elephant", "type": "ANIMAL"}, {"text": "Max", "type": "ANIMAL"}]}
+{"queries": "Emma Davis visited Paris last summer to see the Great Wall of China.", "labels": [{"text": "Emma Davis", "type": "PERSON"}, {"text": "Paris", "type": "CITY"}, {"text": "Great Wall of China", "type": "THING"}]}
+{"queries": "Irene Taylor from London works at Google.", "labels": [{"text": "Irene Taylor", "type": "PERSON"}, {"text": "London", "type": "CITY"}, {"text": "Google", "type": "ORG"}]}
+{"queries": "The WHO headquarters are located in Sydney, USA.", "labels": [{"text": "WHO", "type": "ORG"}, {"text": "Sydney", "type": "CITY"}, {"text": "USA", "type": "COUNTRY"}]}
+{"queries": "UNICEF donated millions to support education in UK.", "labels": [{"text": "UNICEF", "type": "ORG"}, {"text": "UK", "type": "COUNTRY"}]}
+{"queries": "Henry Clark, originally from Spain, now lives in New York.", "labels": [{"text": "Henry Clark", "type": "PERSON"}, {"text": "Spain", "type": "COUNTRY"}, {"text": "New York", "type": "CITY"}]}
+{"queries": "Google launched its new Great Wall of China in Rome.", "labels": [{"text": "Google", "type": "ORG"}, {"text": "Great Wall of China", "type": "THING"}, {"text": "Rome", "type": "CITY"}]}
+{"queries": "During the Coachella, Frank Wilson gave a speech at the Grand Canyon.", "labels": [{"text": "Coachella", "type": "EVENT"}, {"text": "Frank Wilson", "type": "PERSON"}, {"text": "Grand Canyon", "type": "THING"}]}
+{"queries": "David Brown attended the Coachella hosted by UNICEF.", "labels": [{"text": "David Brown", "type": "PERSON"}, {"text": "Coachella", "type": "EVENT"}, {"text": "UNICEF", "type": "ORG"}]}
+{"queries": "Henry Clark, originally from China, now lives in Paris.", "labels": [{"text": "Henry Clark", "type": "PERSON"}, {"text": "China", "type": "COUNTRY"}, {"text": "Paris", "type": "CITY"}]}
+{"queries": "Researchers at Microsoft discovered a new species of eagle in Australia.", "labels": [{"text": "Microsoft", "type": "ORG"}, {"text": "eagle", "type": "ANIMAL"}, {"text": "Australia", "type": "COUNTRY"}]}
+{"queries": "During the TED Talk, Grace Lee gave a speech at the Great Wall of China.", "labels": [{"text": "TED Talk", "type": "EVENT"}, {"text": "Grace Lee", "type": "PERSON"}, {"text": "Great Wall of China", "type": "THING"}]}
+{"queries": "Amazon donated millions to support education in Canada.", "labels": [{"text": "Amazon", "type": "ORG"}, {"text": "Canada", "type": "COUNTRY"}]}
+{"queries": "John Doe from Sydney works at WHO.", "labels": [{"text": "John Doe", "type": "PERSON"}, {"text": "Sydney", "type": "CITY"}, {"text": "WHO", "type": "ORG"}]}
+{"queries": "The Google headquarters are located in Paris, USA.", "labels": [{"text": "Google", "type": "ORG"}, {"text": "Paris", "type": "CITY"}, {"text": "USA", "type": "COUNTRY"}]}
+{"queries": "Emma Davis from Rome works at Google.", "labels": [{"text": "Emma Davis", "type": "PERSON"}, {"text": "Rome", "type": "CITY"}, {"text": "Google", "type": "ORG"}]}
+{"queries": "The Mount Fuji has become a symbol of Madrid's history.", "labels": [{"text": "Mount Fuji", "type": "THING"}, {"text": "Madrid", "type": "CITY"}]}
+{"queries": "Irene Taylor visited Paris last summer to see the Statue of Liberty.", "labels": [{"text": "Irene Taylor", "type": "PERSON"}, {"text": "Paris", "type": "CITY"}, {"text": "Statue of Liberty", "type": "THING"}]}
+{"queries": "A wild eagle was spotted near the Taj Mahal in Spain.", "labels": [{"text": "eagle", "type": "ANIMAL"}, {"text": "Taj Mahal", "type": "THING"}, {"text": "Spain", "type": "COUNTRY"}]}
+{"queries": "In Japan, people celebrate CES with great enthusiasm.", "labels": [{"text": "Japan", "type": "COUNTRY"}, {"text": "CES", "type": "EVENT"}]}
+{"queries": "The Grand Canyon in Toronto was built in the 19th century.", "labels": [{"text": "Grand Canyon", "type": "THING"}, {"text": "Toronto", "type": "CITY"}]}
+{"queries": "David Brown attended the Cannes Festival hosted by IBM.", "labels": [{"text": "David Brown", "type": "PERSON"}, {"text": "Cannes Festival", "type": "EVENT"}, {"text": "IBM", "type": "ORG"}]}
+{"queries": "In China, people celebrate SXSW with great enthusiasm.", "labels": [{"text": "China", "type": "COUNTRY"}, {"text": "SXSW", "type": "EVENT"}]}
+{"queries": "The Eiffel Tower in Berlin was built in the 19th century.", "labels": [{"text": "Eiffel Tower", "type": "THING"}, {"text": "Berlin", "type": "CITY"}]}
+{"queries": "Irene Taylor, originally from USA, now lives in Tokyo.", "labels": [{"text": "Irene Taylor", "type": "PERSON"}, {"text": "USA", "type": "COUNTRY"}, {"text": "Tokyo", "type": "CITY"}]}
+{"queries": "Google donated millions to support education in France.", "labels": [{"text": "Google", "type": "ORG"}, {"text": "France", "type": "COUNTRY"}]}
+{"queries": "Alice Smith from Berlin works at Apple.", "labels": [{"text": "Alice Smith", "type": "PERSON"}, {"text": "Berlin", "type": "CITY"}, {"text": "Apple", "type": "ORG"}]}
+{"queries": "In UK, people celebrate Comic-Con with great enthusiasm.", "labels": [{"text": "UK", "type": "COUNTRY"}, {"text": "Comic-Con", "type": "EVENT"}]}
+{"queries": "Alice Smith, originally from Japan, now lives in Berlin.", "labels": [{"text": "Alice Smith", "type": "PERSON"}, {"text": "Japan", "type": "COUNTRY"}, {"text": "Berlin", "type": "CITY"}]}
+{"queries": "During the Cannes Festival, Grace Lee gave a speech at the Big Ben.", "labels": [{"text": "Cannes Festival", "type": "EVENT"}, {"text": "Grace Lee", "type": "PERSON"}, {"text": "Big Ben", "type": "THING"}]}
+{"queries": "A wild dolphin was spotted near the Taj Mahal in Germany.", "labels": [{"text": "dolphin", "type": "ANIMAL"}, {"text": "Taj Mahal", "type": "THING"}, {"text": "Germany", "type": "COUNTRY"}]}
+{"queries": "Frank Wilson visited Beijing last summer to see the Taj Mahal.", "labels": [{"text": "Frank Wilson", "type": "PERSON"}, {"text": "Beijing", "type": "CITY"}, {"text": "Taj Mahal", "type": "THING"}]}
+{"queries": "Irene Taylor attended the Coachella hosted by Facebook.", "labels": [{"text": "Irene Taylor", "type": "PERSON"}, {"text": "Coachella", "type": "EVENT"}, {"text": "Facebook", "type": "ORG"}]}
+{"queries": "IBM launched its new Mount Fuji in Tokyo.", "labels": [{"text": "IBM", "type": "ORG"}, {"text": "Mount Fuji", "type": "THING"}, {"text": "Tokyo", "type": "CITY"}]}
+{"queries": "During the Cannes Festival, David Brown gave a speech at the Mount Fuji.", "labels": [{"text": "Cannes Festival", "type": "EVENT"}, {"text": "David Brown", "type": "PERSON"}, {"text": "Mount Fuji", "type": "THING"}]}
+{"queries": "Bob Johnson adopted a dog named Milo.", "labels": [{"text": "Bob Johnson", "type": "PERSON"}, {"text": "dog", "type": "ANIMAL"}, {"text": "Milo", "type": "ANIMAL"}]}
+{"queries": "The painting Big Ben was stolen from the IBM museum in Paris.", "labels": [{"text": "Big Ben", "type": "THING"}, {"text": "IBM", "type": "ORG"}, {"text": "Paris", "type": "CITY"}]}
+{"queries": "Emma Davis attended the Olympic Games hosted by Google.", "labels": [{"text": "Emma Davis", "type": "PERSON"}, {"text": "Olympic Games", "type": "EVENT"}, {"text": "Google", "type": "ORG"}]}
+{"queries": "The Amazon headquarters are located in Paris, Italy.", "labels": [{"text": "Amazon", "type": "ORG"}, {"text": "Paris", "type": "CITY"}, {"text": "Italy", "type": "COUNTRY"}]}
+{"queries": "Alice Smith adopted a dog named Luna.", "labels": [{"text": "Alice Smith", "type": "PERSON"}, {"text": "dog", "type": "ANIMAL"}, {"text": "Luna", "type": "ANIMAL"}]}
+{"queries": "Google donated millions to support education in Italy.", "labels": [{"text": "Google", "type": "ORG"}, {"text": "Italy", "type": "COUNTRY"}]}
+{"queries": "John Doe, originally from Spain, now lives in Sydney.", "labels": [{"text": "John Doe", "type": "PERSON"}, {"text": "Spain", "type": "COUNTRY"}, {"text": "Sydney", "type": "CITY"}]}
+{"queries": "The painting Statue of Liberty was stolen from the UNICEF museum in New York.", "labels": [{"text": "Statue of Liberty", "type": "THING"}, {"text": "UNICEF", "type": "ORG"}, {"text": "New York", "type": "CITY"}]}
+{"queries": "WHO launched its new Big Ben in Berlin.", "labels": [{"text": "WHO", "type": "ORG"}, {"text": "Big Ben", "type": "THING"}, {"text": "Berlin", "type": "CITY"}]}
+{"queries": "Emma Davis adopted a cat named Milo.", "labels": [{"text": "Emma Davis", "type": "PERSON"}, {"text": "cat", "type": "ANIMAL"}, {"text": "Milo", "type": "ANIMAL"}]}
+{"queries": "David Brown attended the Cannes Festival hosted by WHO.", "labels": [{"text": "David Brown", "type": "PERSON"}, {"text": "Cannes Festival", "type": "EVENT"}, {"text": "WHO", "type": "ORG"}]}
+{"queries": "Researchers at Tesla discovered a new species of dolphin in USA.", "labels": [{"text": "Tesla", "type": "ORG"}, {"text": "dolphin", "type": "ANIMAL"}, {"text": "USA", "type": "COUNTRY"}]}
+{"queries": "Every year, the Coachella is held in Sydney, attracting visitors worldwide.", "labels": [{"text": "Coachella", "type": "EVENT"}, {"text": "Sydney", "type": "CITY"}]}
+{"queries": "The IBM headquarters are located in Madrid, USA.", "labels": [{"text": "IBM", "type": "ORG"}, {"text": "Madrid", "type": "CITY"}, {"text": "USA", "type": "COUNTRY"}]}
+{"queries": "A wild elephant was spotted near the Eiffel Tower in Spain.", "labels": [{"text": "elephant", "type": "ANIMAL"}, {"text": "Eiffel Tower", "type": "THING"}, {"text": "Spain", "type": "COUNTRY"}]}
+{"queries": "Alice Smith attended the World Cup hosted by Amazon.", "labels": [{"text": "Alice Smith", "type": "PERSON"}, {"text": "World Cup", "type": "EVENT"}, {"text": "Amazon", "type": "ORG"}]}
+{"queries": "Every year, the Cannes Festival is held in Sydney, attracting visitors worldwide.", "labels": [{"text": "Cannes Festival", "type": "EVENT"}, {"text": "Sydney", "type": "CITY"}]}
+{"queries": "A wild dolphin was spotted near the Golden Gate Bridge in Italy.", "labels": [{"text": "dolphin", "type": "ANIMAL"}, {"text": "Golden Gate Bridge", "type": "THING"}, {"text": "Italy", "type": "COUNTRY"}]}
+{"queries": "Alice Smith adopted a cat named Leo.", "labels": [{"text": "Alice Smith", "type": "PERSON"}, {"text": "cat", "type": "ANIMAL"}, {"text": "Leo", "type": "ANIMAL"}]}
+{"queries": "In China, people celebrate SXSW with great enthusiasm.", "labels": [{"text": "China", "type": "COUNTRY"}, {"text": "SXSW", "type": "EVENT"}]}
+{"queries": "WHO donated millions to support education in USA.", "labels": [{"text": "WHO", "type": "ORG"}, {"text": "USA", "type": "COUNTRY"}]}
+{"queries": "Grace Lee from Beijing works at WHO.", "labels": [{"text": "Grace Lee", "type": "PERSON"}, {"text": "Beijing", "type": "CITY"}, {"text": "WHO", "type": "ORG"}]}
+{"queries": "Carol White from Sydney works at Apple.", "labels": [{"text": "Carol White", "type": "PERSON"}, {"text": "Sydney", "type": "CITY"}, {"text": "Apple", "type": "ORG"}]}
+{"queries": "Researchers at UNICEF discovered a new species of kangaroo in Australia.", "labels": [{"text": "UNICEF", "type": "ORG"}, {"text": "kangaroo", "type": "ANIMAL"}, {"text": "Australia", "type": "COUNTRY"}]}
+{"queries": "David Brown from Paris works at Tesla.", "labels": [{"text": "David Brown", "type": "PERSON"}, {"text": "Paris", "type": "CITY"}, {"text": "Tesla", "type": "ORG"}]}
+{"queries": "David Brown adopted a cat named Leo.", "labels": [{"text": "David Brown", "type": "PERSON"}, {"text": "cat", "type": "ANIMAL"}, {"text": "Leo", "type": "ANIMAL"}]}
+{"queries": "Henry Clark adopted a lion named Lucy.", "labels": [{"text": "Henry Clark", "type": "PERSON"}, {"text": "lion", "type": "ANIMAL"}, {"text": "Lucy", "type": "ANIMAL"}]}
+{"queries": "The Google headquarters are located in Paris, UK.", "labels": [{"text": "Google", "type": "ORG"}, {"text": "Paris", "type": "CITY"}, {"text": "UK", "type": "COUNTRY"}]}
+{"queries": "Bob Johnson attended the World Cup hosted by Facebook.", "labels": [{"text": "Bob Johnson", "type": "PERSON"}, {"text": "World Cup", "type": "EVENT"}, {"text": "Facebook", "type": "ORG"}]}
+{"queries": "During the Olympic Games, Henry Clark gave a speech at the Colosseum.", "labels": [{"text": "Olympic Games", "type": "EVENT"}, {"text": "Henry Clark", "type": "PERSON"}, {"text": "Colosseum", "type": "THING"}]}
+{"queries": "The UNICEF headquarters are located in Tokyo, UK.", "labels": [{"text": "UNICEF", "type": "ORG"}, {"text": "Tokyo", "type": "CITY"}, {"text": "UK", "type": "COUNTRY"}]}
+{"queries": "Bob Johnson attended the Comic-Con hosted by Tesla.", "labels": [{"text": "Bob Johnson", "type": "PERSON"}, {"text": "Comic-Con", "type": "EVENT"}, {"text": "Tesla", "type": "ORG"}]}
+{"queries": "The NASA headquarters are located in Paris, China.", "labels": [{"text": "NASA", "type": "ORG"}, {"text": "Paris", "type": "CITY"}, {"text": "China", "type": "COUNTRY"}]}
+{"queries": "Bob Johnson from Madrid works at Facebook.", "labels": [{"text": "Bob Johnson", "type": "PERSON"}, {"text": "Madrid", "type": "CITY"}, {"text": "Facebook", "type": "ORG"}]}
+{"queries": "Grace Lee from London works at NASA.", "labels": [{"text": "Grace Lee", "type": "PERSON"}, {"text": "London", "type": "CITY"}, {"text": "NASA", "type": "ORG"}]}
+{"queries": "Grace Lee from New York works at Facebook.", "labels": [{"text": "Grace Lee", "type": "PERSON"}, {"text": "New York", "type": "CITY"}, {"text": "Facebook", "type": "ORG"}]}
+{"queries": "Alice Smith attended the Cannes Festival hosted by IBM.", "labels": [{"text": "Alice Smith", "type": "PERSON"}, {"text": "Cannes Festival", "type": "EVENT"}, {"text": "IBM", "type": "ORG"}]}
+{"queries": "The Statue of Liberty has become a symbol of Sydney's history.", "labels": [{"text": "Statue of Liberty", "type": "THING"}, {"text": "Sydney", "type": "CITY"}]}
+{"queries": "The painting Mount Fuji was stolen from the IBM museum in Tokyo.", "labels": [{"text": "Mount Fuji", "type": "THING"}, {"text": "IBM", "type": "ORG"}, {"text": "Tokyo", "type": "CITY"}]}
+{"queries": "A wild bear was spotted near the Statue of Liberty in UK.", "labels": [{"text": "bear", "type": "ANIMAL"}, {"text": "Statue of Liberty", "type": "THING"}, {"text": "UK", "type": "COUNTRY"}]}
+{"queries": "The painting Great Wall of China was stolen from the Tesla museum in Beijing.", "labels": [{"text": "Great Wall of China", "type": "THING"}, {"text": "Tesla", "type": "ORG"}, {"text": "Beijing", "type": "CITY"}]}
+{"queries": "John Doe, originally from France, now lives in London.", "labels": [{"text": "John Doe", "type": "PERSON"}, {"text": "France", "type": "COUNTRY"}, {"text": "London", "type": "CITY"}]}
+{"queries": "In Spain, people celebrate TED Talk with great enthusiasm.", "labels": [{"text": "Spain", "type": "COUNTRY"}, {"text": "TED Talk", "type": "EVENT"}]}
+{"queries": "The painting Mount Fuji was stolen from the UNICEF museum in Paris.", "labels": [{"text": "Mount Fuji", "type": "THING"}, {"text": "UNICEF", "type": "ORG"}, {"text": "Paris", "type": "CITY"}]}
+{"queries": "The UNICEF headquarters are located in New York, Spain.", "labels": [{"text": "UNICEF", "type": "ORG"}, {"text": "New York", "type": "CITY"}, {"text": "Spain", "type": "COUNTRY"}]}
+{"queries": "Apple donated millions to support education in Italy.", "labels": [{"text": "Apple", "type": "ORG"}, {"text": "Italy", "type": "COUNTRY"}]}
+{"queries": "Amazon launched its new Eiffel Tower in Sydney.", "labels": [{"text": "Amazon", "type": "ORG"}, {"text": "Eiffel Tower", "type": "THING"}, {"text": "Sydney", "type": "CITY"}]}
+{"queries": "David Brown from New York works at WHO.", "labels": [{"text": "David Brown", "type": "PERSON"}, {"text": "New York", "type": "CITY"}, {"text": "WHO", "type": "ORG"}]}
+{"queries": "The Grand Canyon in Madrid was built in the 19th century.", "labels": [{"text": "Grand Canyon", "type": "THING"}, {"text": "Madrid", "type": "CITY"}]}
+{"queries": "Grace Lee visited New York last summer to see the Great Wall of China.", "labels": [{"text": "Grace Lee", "type": "PERSON"}, {"text": "New York", "type": "CITY"}, {"text": "Great Wall of China", "type": "THING"}]}
+{"queries": "WHO donated millions to support education in France.", "labels": [{"text": "WHO", "type": "ORG"}, {"text": "France", "type": "COUNTRY"}]}
+{"queries": "Every year, the World Cup is held in Tokyo, attracting visitors worldwide.", "labels": [{"text": "World Cup", "type": "EVENT"}, {"text": "Tokyo", "type": "CITY"}]}
+{"queries": "In Italy, people celebrate Comic-Con with great enthusiasm.", "labels": [{"text": "Italy", "type": "COUNTRY"}, {"text": "Comic-Con", "type": "EVENT"}]}
+{"queries": "John Doe visited Tokyo last summer to see the Great Wall of China.", "labels": [{"text": "John Doe", "type": "PERSON"}, {"text": "Tokyo", "type": "CITY"}, {"text": "Great Wall of China", "type": "THING"}]}
+{"queries": "Tourists love to take photos of the Golden Gate Bridge near Beijing.", "labels": [{"text": "Golden Gate Bridge", "type": "THING"}, {"text": "Beijing", "type": "CITY"}]}
+{"queries": "Tourists love to take photos of the Golden Gate Bridge near Beijing.", "labels": [{"text": "Golden Gate Bridge", "type": "THING"}, {"text": "Beijing", "type": "CITY"}]}
+{"queries": "David Brown from London works at IBM.", "labels": [{"text": "David Brown", "type": "PERSON"}, {"text": "London", "type": "CITY"}, {"text": "IBM", "type": "ORG"}]}
+{"queries": "The Google headquarters are located in New York, Germany.", "labels": [{"text": "Google", "type": "ORG"}, {"text": "New York", "type": "CITY"}, {"text": "Germany", "type": "COUNTRY"}]}
+{"queries": "Every year, the Cannes Festival is held in Beijing, attracting visitors worldwide.", "labels": [{"text": "Cannes Festival", "type": "EVENT"}, {"text": "Beijing", "type": "CITY"}]}
+{"queries": "The painting Great Wall of China was stolen from the Google museum in Paris.", "labels": [{"text": "Great Wall of China", "type": "THING"}, {"text": "Google", "type": "ORG"}, {"text": "Paris", "type": "CITY"}]}
+{"queries": "Every year, the Cannes Festival is held in Sydney, attracting visitors worldwide.", "labels": [{"text": "Cannes Festival", "type": "EVENT"}, {"text": "Sydney", "type": "CITY"}]}
+{"queries": "The Big Ben has become a symbol of Toronto's history.", "labels": [{"text": "Big Ben", "type": "THING"}, {"text": "Toronto", "type": "CITY"}]}
+{"queries": "Irene Taylor visited Beijing last summer to see the Big Ben.", "labels": [{"text": "Irene Taylor", "type": "PERSON"}, {"text": "Beijing", "type": "CITY"}, {"text": "Big Ben", "type": "THING"}]}
+{"queries": "Tourists love to take photos of the Big Ben near Madrid.", "labels": [{"text": "Big Ben", "type": "THING"}, {"text": "Madrid", "type": "CITY"}]}
+{"queries": "David Brown, originally from Spain, now lives in New York.", "labels": [{"text": "David Brown", "type": "PERSON"}, {"text": "Spain", "type": "COUNTRY"}, {"text": "New York", "type": "CITY"}]}
+{"queries": "Every year, the TED Talk is held in Berlin, attracting visitors worldwide.", "labels": [{"text": "TED Talk", "type": "EVENT"}, {"text": "Berlin", "type": "CITY"}]}
+{"queries": "Bob Johnson visited Paris last summer to see the Big Ben.", "labels": [{"text": "Bob Johnson", "type": "PERSON"}, {"text": "Paris", "type": "CITY"}, {"text": "Big Ben", "type": "THING"}]}
+{"queries": "Tourists love to take photos of the Mount Fuji near Berlin.", "labels": [{"text": "Mount Fuji", "type": "THING"}, {"text": "Berlin", "type": "CITY"}]}
+{"queries": "John Doe attended the SXSW hosted by Microsoft.", "labels": [{"text": "John Doe", "type": "PERSON"}, {"text": "SXSW", "type": "EVENT"}, {"text": "Microsoft", "type": "ORG"}]}
+{"queries": "UNICEF launched its new Statue of Liberty in Beijing.", "labels": [{"text": "UNICEF", "type": "ORG"}, {"text": "Statue of Liberty", "type": "THING"}, {"text": "Beijing", "type": "CITY"}]}
+{"queries": "The Taj Mahal has become a symbol of London's history.", "labels": [{"text": "Taj Mahal", "type": "THING"}, {"text": "London", "type": "CITY"}]}
+{"queries": "The painting Pyramids of Giza was stolen from the Amazon museum in Sydney.", "labels": [{"text": "Pyramids of Giza", "type": "THING"}, {"text": "Amazon", "type": "ORG"}, {"text": "Sydney", "type": "CITY"}]}
+{"queries": "Every year, the Cannes Festival is held in Sydney, attracting visitors worldwide.", "labels": [{"text": "Cannes Festival", "type": "EVENT"}, {"text": "Sydney", "type": "CITY"}]}
+{"queries": "Emma Davis adopted a dog named Charlie.", "labels": [{"text": "Emma Davis", "type": "PERSON"}, {"text": "dog", "type": "ANIMAL"}, {"text": "Charlie", "type": "ANIMAL"}]}
+{"queries": "The Statue of Liberty has become a symbol of New York's history.", "labels": [{"text": "Statue of Liberty", "type": "THING"}, {"text": "New York", "type": "CITY"}]}
+{"queries": "Researchers at WHO discovered a new species of dog in Canada.", "labels": [{"text": "WHO", "type": "ORG"}, {"text": "dog", "type": "ANIMAL"}, {"text": "Canada", "type": "COUNTRY"}]}
+{"queries": "David Brown visited Tokyo last summer to see the Great Wall of China.", "labels": [{"text": "David Brown", "type": "PERSON"}, {"text": "Tokyo", "type": "CITY"}, {"text": "Great Wall of China", "type": "THING"}]}
+{"queries": "Tourists love to take photos of the Golden Gate Bridge near London.", "labels": [{"text": "Golden Gate Bridge", "type": "THING"}, {"text": "London", "type": "CITY"}]}
+{"queries": "WHO donated millions to support education in Italy.", "labels": [{"text": "WHO", "type": "ORG"}, {"text": "Italy", "type": "COUNTRY"}]}
+{"queries": "The Taj Mahal has become a symbol of Berlin's history.", "labels": [{"text": "Taj Mahal", "type": "THING"}, {"text": "Berlin", "type": "CITY"}]}
+{"queries": "Irene Taylor adopted a tiger named Milo.", "labels": [{"text": "Irene Taylor", "type": "PERSON"}, {"text": "tiger", "type": "ANIMAL"}, {"text": "Milo", "type": "ANIMAL"}]}
+{"queries": "Alice Smith adopted a dolphin named Rover.", "labels": [{"text": "Alice Smith", "type": "PERSON"}, {"text": "dolphin", "type": "ANIMAL"}, {"text": "Rover", "type": "ANIMAL"}]}
+{"queries": "David Brown, originally from France, now lives in Rome.", "labels": [{"text": "David Brown", "type": "PERSON"}, {"text": "France", "type": "COUNTRY"}, {"text": "Rome", "type": "CITY"}]}
+{"queries": "The Colosseum in Rome was built in the 19th century.", "labels": [{"text": "Colosseum", "type": "THING"}, {"text": "Rome", "type": "CITY"}]}
+{"queries": "Researchers at IBM discovered a new species of dolphin in Italy.", "labels": [{"text": "IBM", "type": "ORG"}, {"text": "dolphin", "type": "ANIMAL"}, {"text": "Italy", "type": "COUNTRY"}]}
+{"queries": "Irene Taylor visited Berlin last summer to see the Golden Gate Bridge.", "labels": [{"text": "Irene Taylor", "type": "PERSON"}, {"text": "Berlin", "type": "CITY"}, {"text": "Golden Gate Bridge", "type": "THING"}]}
+{"queries": "Tourists love to take photos of the Eiffel Tower near London.", "labels": [{"text": "Eiffel Tower", "type": "THING"}, {"text": "London", "type": "CITY"}]}
+{"queries": "A wild elephant was spotted near the Taj Mahal in Canada.", "labels": [{"text": "elephant", "type": "ANIMAL"}, {"text": "Taj Mahal", "type": "THING"}, {"text": "Canada", "type": "COUNTRY"}]}
+{"queries": "Emma Davis visited Tokyo last summer to see the Mount Fuji.", "labels": [{"text": "Emma Davis", "type": "PERSON"}, {"text": "Tokyo", "type": "CITY"}, {"text": "Mount Fuji", "type": "THING"}]}
+{"queries": "Every year, the World Cup is held in Tokyo, attracting visitors worldwide.", "labels": [{"text": "World Cup", "type": "EVENT"}, {"text": "Tokyo", "type": "CITY"}]}
+{"queries": "The Golden Gate Bridge in New York was built in the 19th century.", "labels": [{"text": "Golden Gate Bridge", "type": "THING"}, {"text": "New York", "type": "CITY"}]}
+{"queries": "During the SXSW, Frank Wilson gave a speech at the Great Wall of China.", "labels": [{"text": "SXSW", "type": "EVENT"}, {"text": "Frank Wilson", "type": "PERSON"}, {"text": "Great Wall of China", "type": "THING"}]}
+{"queries": "The painting Grand Canyon was stolen from the Facebook museum in Beijing.", "labels": [{"text": "Grand Canyon", "type": "THING"}, {"text": "Facebook", "type": "ORG"}, {"text": "Beijing", "type": "CITY"}]}
+{"queries": "In Italy, people celebrate World Cup with great enthusiasm.", "labels": [{"text": "Italy", "type": "COUNTRY"}, {"text": "World Cup", "type": "EVENT"}]}
+{"queries": "Henry Clark adopted a dolphin named Bella.", "labels": [{"text": "Henry Clark", "type": "PERSON"}, {"text": "dolphin", "type": "ANIMAL"}, {"text": "Bella", "type": "ANIMAL"}]}
+{"queries": "Grace Lee from Madrid works at UNICEF.", "labels": [{"text": "Grace Lee", "type": "PERSON"}, {"text": "Madrid", "type": "CITY"}, {"text": "UNICEF", "type": "ORG"}]}
+{"queries": "In Germany, people celebrate CES with great enthusiasm.", "labels": [{"text": "Germany", "type": "COUNTRY"}, {"text": "CES", "type": "EVENT"}]}
+{"queries": "The painting Pyramids of Giza was stolen from the Amazon museum in Toronto.", "labels": [{"text": "Pyramids of Giza", "type": "THING"}, {"text": "Amazon", "type": "ORG"}, {"text": "Toronto", "type": "CITY"}]}
+{"queries": "Irene Taylor visited New York last summer to see the Mount Fuji.", "labels": [{"text": "Irene Taylor", "type": "PERSON"}, {"text": "New York", "type": "CITY"}, {"text": "Mount Fuji", "type": "THING"}]}
+{"queries": "A wild elephant was spotted near the Statue of Liberty in Spain.", "labels": [{"text": "elephant", "type": "ANIMAL"}, {"text": "Statue of Liberty", "type": "THING"}, {"text": "Spain", "type": "COUNTRY"}]}
+{"queries": "The Google headquarters are located in Tokyo, UK.", "labels": [{"text": "Google", "type": "ORG"}, {"text": "Tokyo", "type": "CITY"}, {"text": "UK", "type": "COUNTRY"}]}
+{"queries": "Frank Wilson adopted a bear named Leo.", "labels": [{"text": "Frank Wilson", "type": "PERSON"}, {"text": "bear", "type": "ANIMAL"}, {"text": "Leo", "type": "ANIMAL"}]}
+{"queries": "Tourists love to take photos of the Pyramids of Giza near London.", "labels": [{"text": "Pyramids of Giza", "type": "THING"}, {"text": "London", "type": "CITY"}]}
+{"queries": "Tesla donated millions to support education in China.", "labels": [{"text": "Tesla", "type": "ORG"}, {"text": "China", "type": "COUNTRY"}]}
+{"queries": "A wild lion was spotted near the Golden Gate Bridge in Japan.", "labels": [{"text": "lion", "type": "ANIMAL"}, {"text": "Golden Gate Bridge", "type": "THING"}, {"text": "Japan", "type": "COUNTRY"}]}
+{"queries": "Tesla donated millions to support education in Germany.", "labels": [{"text": "Tesla", "type": "ORG"}, {"text": "Germany", "type": "COUNTRY"}]}
+{"queries": "Carol White visited Toronto last summer to see the Taj Mahal.", "labels": [{"text": "Carol White", "type": "PERSON"}, {"text": "Toronto", "type": "CITY"}, {"text": "Taj Mahal", "type": "THING"}]}
+{"queries": "Carol White adopted a dog named Luna.", "labels": [{"text": "Carol White", "type": "PERSON"}, {"text": "dog", "type": "ANIMAL"}, {"text": "Luna", "type": "ANIMAL"}]}
+{"queries": "A wild tiger was spotted near the Golden Gate Bridge in USA.", "labels": [{"text": "tiger", "type": "ANIMAL"}, {"text": "Golden Gate Bridge", "type": "THING"}, {"text": "USA", "type": "COUNTRY"}]}
+{"queries": "Bob Johnson visited Sydney last summer to see the Grand Canyon.", "labels": [{"text": "Bob Johnson", "type": "PERSON"}, {"text": "Sydney", "type": "CITY"}, {"text": "Grand Canyon", "type": "THING"}]}
+{"queries": "John Doe adopted a eagle named Bella.", "labels": [{"text": "John Doe", "type": "PERSON"}, {"text": "eagle", "type": "ANIMAL"}, {"text": "Bella", "type": "ANIMAL"}]}
+{"queries": "Irene Taylor, originally from China, now lives in Sydney.", "labels": [{"text": "Irene Taylor", "type": "PERSON"}, {"text": "China", "type": "COUNTRY"}, {"text": "Sydney", "type": "CITY"}]}
+{"queries": "WHO launched its new Eiffel Tower in Tokyo.", "labels": [{"text": "WHO", "type": "ORG"}, {"text": "Eiffel Tower", "type": "THING"}, {"text": "Tokyo", "type": "CITY"}]}
+{"queries": "Researchers at IBM discovered a new species of dog in Italy.", "labels": [{"text": "IBM", "type": "ORG"}, {"text": "dog", "type": "ANIMAL"}, {"text": "Italy", "type": "COUNTRY"}]}
+{"queries": "The Pyramids of Giza in Madrid was built in the 19th century.", "labels": [{"text": "Pyramids of Giza", "type": "THING"}, {"text": "Madrid", "type": "CITY"}]}
+{"queries": "The Pyramids of Giza in Tokyo was built in the 19th century.", "labels": [{"text": "Pyramids of Giza", "type": "THING"}, {"text": "Tokyo", "type": "CITY"}]}
+{"queries": "Irene Taylor from Sydney works at Facebook.", "labels": [{"text": "Irene Taylor", "type": "PERSON"}, {"text": "Sydney", "type": "CITY"}, {"text": "Facebook", "type": "ORG"}]}
+{"queries": "David Brown from Paris works at WHO.", "labels": [{"text": "David Brown", "type": "PERSON"}, {"text": "Paris", "type": "CITY"}, {"text": "WHO", "type": "ORG"}]}
+{"queries": "Microsoft launched its new Grand Canyon in Madrid.", "labels": [{"text": "Microsoft", "type": "ORG"}, {"text": "Grand Canyon", "type": "THING"}, {"text": "Madrid", "type": "CITY"}]}
+{"queries": "David Brown, originally from France, now lives in Madrid.", "labels": [{"text": "David Brown", "type": "PERSON"}, {"text": "France", "type": "COUNTRY"}, {"text": "Madrid", "type": "CITY"}]}
+{"queries": "IBM launched its new Mount Fuji in Tokyo.", "labels": [{"text": "IBM", "type": "ORG"}, {"text": "Mount Fuji", "type": "THING"}, {"text": "Tokyo", "type": "CITY"}]}
+{"queries": "The painting Mount Fuji was stolen from the Apple museum in Toronto.", "labels": [{"text": "Mount Fuji", "type": "THING"}, {"text": "Apple", "type": "ORG"}, {"text": "Toronto", "type": "CITY"}]}
+{"queries": "Henry Clark attended the CES hosted by NASA.", "labels": [{"text": "Henry Clark", "type": "PERSON"}, {"text": "CES", "type": "EVENT"}, {"text": "NASA", "type": "ORG"}]}
+{"queries": "During the TED Talk, Carol White gave a speech at the Golden Gate Bridge.", "labels": [{"text": "TED Talk", "type": "EVENT"}, {"text": "Carol White", "type": "PERSON"}, {"text": "Golden Gate Bridge", "type": "THING"}]}
+{"queries": "WHO donated millions to support education in China.", "labels": [{"text": "WHO", "type": "ORG"}, {"text": "China", "type": "COUNTRY"}]}
+{"queries": "The painting Golden Gate Bridge was stolen from the Facebook museum in London.", "labels": [{"text": "Golden Gate Bridge", "type": "THING"}, {"text": "Facebook", "type": "ORG"}, {"text": "London", "type": "CITY"}]}
+{"queries": "NASA donated millions to support education in Italy.", "labels": [{"text": "NASA", "type": "ORG"}, {"text": "Italy", "type": "COUNTRY"}]}
+{"queries": "Researchers at Tesla discovered a new species of panda in Germany.", "labels": [{"text": "Tesla", "type": "ORG"}, {"text": "panda", "type": "ANIMAL"}, {"text": "Germany", "type": "COUNTRY"}]}
+{"queries": "During the Cannes Festival, Henry Clark gave a speech at the Grand Canyon.", "labels": [{"text": "Cannes Festival", "type": "EVENT"}, {"text": "Henry Clark", "type": "PERSON"}, {"text": "Grand Canyon", "type": "THING"}]}
+{"queries": "Researchers at Google discovered a new species of dolphin in Germany.", "labels": [{"text": "Google", "type": "ORG"}, {"text": "dolphin", "type": "ANIMAL"}, {"text": "Germany", "type": "COUNTRY"}]}
+{"queries": "During the CES, Irene Taylor gave a speech at the Mount Fuji.", "labels": [{"text": "CES", "type": "EVENT"}, {"text": "Irene Taylor", "type": "PERSON"}, {"text": "Mount Fuji", "type": "THING"}]}
+{"queries": "Alice Smith attended the World Cup hosted by Facebook.", "labels": [{"text": "Alice Smith", "type": "PERSON"}, {"text": "World Cup", "type": "EVENT"}, {"text": "Facebook", "type": "ORG"}]}
+{"queries": "Emma Davis visited Berlin last summer to see the Big Ben.", "labels": [{"text": "Emma Davis", "type": "PERSON"}, {"text": "Berlin", "type": "CITY"}, {"text": "Big Ben", "type": "THING"}]}
+{"queries": "The WHO headquarters are located in Rome, Spain.", "labels": [{"text": "WHO", "type": "ORG"}, {"text": "Rome", "type": "CITY"}, {"text": "Spain", "type": "COUNTRY"}]}
+{"queries": "A wild elephant was spotted near the Eiffel Tower in Germany.", "labels": [{"text": "elephant", "type": "ANIMAL"}, {"text": "Eiffel Tower", "type": "THING"}, {"text": "Germany", "type": "COUNTRY"}]}
+{"queries": "Tesla launched its new Mount Fuji in Berlin.", "labels": [{"text": "Tesla", "type": "ORG"}, {"text": "Mount Fuji", "type": "THING"}, {"text": "Berlin", "type": "CITY"}]}
+{"queries": "IBM donated millions to support education in France.", "labels": [{"text": "IBM", "type": "ORG"}, {"text": "France", "type": "COUNTRY"}]}
+{"queries": "A wild panda was spotted near the Pyramids of Giza in Italy.", "labels": [{"text": "panda", "type": "ANIMAL"}, {"text": "Pyramids of Giza", "type": "THING"}, {"text": "Italy", "type": "COUNTRY"}]}
+{"queries": "The painting Big Ben was stolen from the Microsoft museum in Tokyo.", "labels": [{"text": "Big Ben", "type": "THING"}, {"text": "Microsoft", "type": "ORG"}, {"text": "Tokyo", "type": "CITY"}]}
+{"queries": "Tourists love to take photos of the Golden Gate Bridge near Madrid.", "labels": [{"text": "Golden Gate Bridge", "type": "THING"}, {"text": "Madrid", "type": "CITY"}]}
+{"queries": "The Amazon headquarters are located in Paris, Germany.", "labels": [{"text": "Amazon", "type": "ORG"}, {"text": "Paris", "type": "CITY"}, {"text": "Germany", "type": "COUNTRY"}]}
+{"queries": "Emma Davis adopted a elephant named Rover.", "labels": [{"text": "Emma Davis", "type": "PERSON"}, {"text": "elephant", "type": "ANIMAL"}, {"text": "Rover", "type": "ANIMAL"}]}
+{"queries": "Emma Davis adopted a eagle named Max.", "labels": [{"text": "Emma Davis", "type": "PERSON"}, {"text": "eagle", "type": "ANIMAL"}, {"text": "Max", "type": "ANIMAL"}]}
+{"queries": "John Doe visited Sydney last summer to see the Eiffel Tower.", "labels": [{"text": "John Doe", "type": "PERSON"}, {"text": "Sydney", "type": "CITY"}, {"text": "Eiffel Tower", "type": "THING"}]}
+{"queries": "Grace Lee attended the World Cup hosted by Apple.", "labels": [{"text": "Grace Lee", "type": "PERSON"}, {"text": "World Cup", "type": "EVENT"}, {"text": "Apple", "type": "ORG"}]}
+{"queries": "The Colosseum in Beijing was built in the 19th century.", "labels": [{"text": "Colosseum", "type": "THING"}, {"text": "Beijing", "type": "CITY"}]}
+{"queries": "During the World Cup, Grace Lee gave a speech at the Pyramids of Giza.", "labels": [{"text": "World Cup", "type": "EVENT"}, {"text": "Grace Lee", "type": "PERSON"}, {"text": "Pyramids of Giza", "type": "THING"}]}
+{"queries": "The Statue of Liberty in New York was built in the 19th century.", "labels": [{"text": "Statue of Liberty", "type": "THING"}, {"text": "New York", "type": "CITY"}]}
+{"queries": "In Australia, people celebrate TED Talk with great enthusiasm.", "labels": [{"text": "Australia", "type": "COUNTRY"}, {"text": "TED Talk", "type": "EVENT"}]}
+{"queries": "The Grand Canyon in Rome was built in the 19th century.", "labels": [{"text": "Grand Canyon", "type": "THING"}, {"text": "Rome", "type": "CITY"}]}
+{"queries": "A wild kangaroo was spotted near the Golden Gate Bridge in France.", "labels": [{"text": "kangaroo", "type": "ANIMAL"}, {"text": "Golden Gate Bridge", "type": "THING"}, {"text": "France", "type": "COUNTRY"}]}
+{"queries": "During the Comic-Con, David Brown gave a speech at the Big Ben.", "labels": [{"text": "Comic-Con", "type": "EVENT"}, {"text": "David Brown", "type": "PERSON"}, {"text": "Big Ben", "type": "THING"}]}
+{"queries": "Grace Lee from Rome works at Apple.", "labels": [{"text": "Grace Lee", "type": "PERSON"}, {"text": "Rome", "type": "CITY"}, {"text": "Apple", "type": "ORG"}]}
+{"queries": "Tourists love to take photos of the Taj Mahal near London.", "labels": [{"text": "Taj Mahal", "type": "THING"}, {"text": "London", "type": "CITY"}]}
+{"queries": "Bob Johnson visited Toronto last summer to see the Statue of Liberty.", "labels": [{"text": "Bob Johnson", "type": "PERSON"}, {"text": "Toronto", "type": "CITY"}, {"text": "Statue of Liberty", "type": "THING"}]}
+{"queries": "Bob Johnson visited Tokyo last summer to see the Statue of Liberty.", "labels": [{"text": "Bob Johnson", "type": "PERSON"}, {"text": "Tokyo", "type": "CITY"}, {"text": "Statue of Liberty", "type": "THING"}]}
+{"queries": "Researchers at NASA discovered a new species of panda in Germany.", "labels": [{"text": "NASA", "type": "ORG"}, {"text": "panda", "type": "ANIMAL"}, {"text": "Germany", "type": "COUNTRY"}]}
+{"queries": "During the CES, Frank Wilson gave a speech at the Colosseum.", "labels": [{"text": "CES", "type": "EVENT"}, {"text": "Frank Wilson", "type": "PERSON"}, {"text": "Colosseum", "type": "THING"}]}
+{"queries": "A wild dolphin was spotted near the Big Ben in Japan.", "labels": [{"text": "dolphin", "type": "ANIMAL"}, {"text": "Big Ben", "type": "THING"}, {"text": "Japan", "type": "COUNTRY"}]}
+{"queries": "Emma Davis from London works at Amazon.", "labels": [{"text": "Emma Davis", "type": "PERSON"}, {"text": "London", "type": "CITY"}, {"text": "Amazon", "type": "ORG"}]}
+{"queries": "Researchers at NASA discovered a new species of kangaroo in Australia.", "labels": [{"text": "NASA", "type": "ORG"}, {"text": "kangaroo", "type": "ANIMAL"}, {"text": "Australia", "type": "COUNTRY"}]}
+{"queries": "Alice Smith from Rome works at NASA.", "labels": [{"text": "Alice Smith", "type": "PERSON"}, {"text": "Rome", "type": "CITY"}, {"text": "NASA", "type": "ORG"}]}
+{"queries": "The painting Grand Canyon was stolen from the Facebook museum in Madrid.", "labels": [{"text": "Grand Canyon", "type": "THING"}, {"text": "Facebook", "type": "ORG"}, {"text": "Madrid", "type": "CITY"}]}
+{"queries": "Frank Wilson attended the TED Talk hosted by WHO.", "labels": [{"text": "Frank Wilson", "type": "PERSON"}, {"text": "TED Talk", "type": "EVENT"}, {"text": "WHO", "type": "ORG"}]}
+{"queries": "In UK, people celebrate CES with great enthusiasm.", "labels": [{"text": "UK", "type": "COUNTRY"}, {"text": "CES", "type": "EVENT"}]}
+{"queries": "Every year, the Olympic Games is held in New York, attracting visitors worldwide.", "labels": [{"text": "Olympic Games", "type": "EVENT"}, {"text": "New York", "type": "CITY"}]}
+{"queries": "Emma Davis, originally from Australia, now lives in Paris.", "labels": [{"text": "Emma Davis", "type": "PERSON"}, {"text": "Australia", "type": "COUNTRY"}, {"text": "Paris", "type": "CITY"}]}
+{"queries": "The Eiffel Tower has become a symbol of Paris's history.", "labels": [{"text": "Eiffel Tower", "type": "THING"}, {"text": "Paris", "type": "CITY"}]}
+{"queries": "In Italy, people celebrate Olympic Games with great enthusiasm.", "labels": [{"text": "Italy", "type": "COUNTRY"}, {"text": "Olympic Games", "type": "EVENT"}]}
+{"queries": "UNICEF donated millions to support education in Japan.", "labels": [{"text": "UNICEF", "type": "ORG"}, {"text": "Japan", "type": "COUNTRY"}]}
+{"queries": "Tourists love to take photos of the Mount Fuji near Rome.", "labels": [{"text": "Mount Fuji", "type": "THING"}, {"text": "Rome", "type": "CITY"}]}
+{"queries": "The IBM headquarters are located in Tokyo, China.", "labels": [{"text": "IBM", "type": "ORG"}, {"text": "Tokyo", "type": "CITY"}, {"text": "China", "type": "COUNTRY"}]}
+{"queries": "Microsoft launched its new Pyramids of Giza in Paris.", "labels": [{"text": "Microsoft", "type": "ORG"}, {"text": "Pyramids of Giza", "type": "THING"}, {"text": "Paris", "type": "CITY"}]}
+{"queries": "Frank Wilson visited Rome last summer to see the Statue of Liberty.", "labels": [{"text": "Frank Wilson", "type": "PERSON"}, {"text": "Rome", "type": "CITY"}, {"text": "Statue of Liberty", "type": "THING"}]}
+{"queries": "The Eiffel Tower in Madrid was built in the 19th century.", "labels": [{"text": "Eiffel Tower", "type": "THING"}, {"text": "Madrid", "type": "CITY"}]}
+{"queries": "Irene Taylor visited Paris last summer to see the Big Ben.", "labels": [{"text": "Irene Taylor", "type": "PERSON"}, {"text": "Paris", "type": "CITY"}, {"text": "Big Ben", "type": "THING"}]}
+{"queries": "Google launched its new Golden Gate Bridge in Sydney.", "labels": [{"text": "Google", "type": "ORG"}, {"text": "Golden Gate Bridge", "type": "THING"}, {"text": "Sydney", "type": "CITY"}]}
+{"queries": "During the Comic-Con, Bob Johnson gave a speech at the Great Wall of China.", "labels": [{"text": "Comic-Con", "type": "EVENT"}, {"text": "Bob Johnson", "type": "PERSON"}, {"text": "Great Wall of China", "type": "THING"}]}
+{"queries": "Tourists love to take photos of the Statue of Liberty near London.", "labels": [{"text": "Statue of Liberty", "type": "THING"}, {"text": "London", "type": "CITY"}]}
+{"queries": "IBM donated millions to support education in Australia.", "labels": [{"text": "IBM", "type": "ORG"}, {"text": "Australia", "type": "COUNTRY"}]}
+{"queries": "The painting Colosseum was stolen from the Google museum in Rome.", "labels": [{"text": "Colosseum", "type": "THING"}, {"text": "Google", "type": "ORG"}, {"text": "Rome", "type": "CITY"}]}
+{"queries": "A wild panda was spotted near the Mount Fuji in France.", "labels": [{"text": "panda", "type": "ANIMAL"}, {"text": "Mount Fuji", "type": "THING"}, {"text": "France", "type": "COUNTRY"}]}
+{"queries": "Grace Lee attended the Coachella hosted by UNICEF.", "labels": [{"text": "Grace Lee", "type": "PERSON"}, {"text": "Coachella", "type": "EVENT"}, {"text": "UNICEF", "type": "ORG"}]}
+{"queries": "Emma Davis adopted a lion named Oscar.", "labels": [{"text": "Emma Davis", "type": "PERSON"}, {"text": "lion", "type": "ANIMAL"}, {"text": "Oscar", "type": "ANIMAL"}]}
+{"queries": "The painting Taj Mahal was stolen from the Google museum in Toronto.", "labels": [{"text": "Taj Mahal", "type": "THING"}, {"text": "Google", "type": "ORG"}, {"text": "Toronto", "type": "CITY"}]}
+{"queries": "In China, people celebrate Cannes Festival with great enthusiasm.", "labels": [{"text": "China", "type": "COUNTRY"}, {"text": "Cannes Festival", "type": "EVENT"}]}
+{"queries": "The Eiffel Tower in Toronto was built in the 19th century.", "labels": [{"text": "Eiffel Tower", "type": "THING"}, {"text": "Toronto", "type": "CITY"}]}
+{"queries": "During the World Cup, Emma Davis gave a speech at the Pyramids of Giza.", "labels": [{"text": "World Cup", "type": "EVENT"}, {"text": "Emma Davis", "type": "PERSON"}, {"text": "Pyramids of Giza", "type": "THING"}]}
+{"queries": "Researchers at Tesla discovered a new species of eagle in France.", "labels": [{"text": "Tesla", "type": "ORG"}, {"text": "eagle", "type": "ANIMAL"}, {"text": "France", "type": "COUNTRY"}]}
+{"queries": "During the SXSW, Bob Johnson gave a speech at the Golden Gate Bridge.", "labels": [{"text": "SXSW", "type": "EVENT"}, {"text": "Bob Johnson", "type": "PERSON"}, {"text": "Golden Gate Bridge", "type": "THING"}]}
+{"queries": "Frank Wilson visited Beijing last summer to see the Mount Fuji.", "labels": [{"text": "Frank Wilson", "type": "PERSON"}, {"text": "Beijing", "type": "CITY"}, {"text": "Mount Fuji", "type": "THING"}]}
+{"queries": "Tesla donated millions to support education in UK.", "labels": [{"text": "Tesla", "type": "ORG"}, {"text": "UK", "type": "COUNTRY"}]}
+{"queries": "Frank Wilson visited London last summer to see the Great Wall of China.", "labels": [{"text": "Frank Wilson", "type": "PERSON"}, {"text": "London", "type": "CITY"}, {"text": "Great Wall of China", "type": "THING"}]}
+{"queries": "Bob Johnson, originally from Germany, now lives in Paris.", "labels": [{"text": "Bob Johnson", "type": "PERSON"}, {"text": "Germany", "type": "COUNTRY"}, {"text": "Paris", "type": "CITY"}]}
+{"queries": "Bob Johnson from New York works at NASA.", "labels": [{"text": "Bob Johnson", "type": "PERSON"}, {"text": "New York", "type": "CITY"}, {"text": "NASA", "type": "ORG"}]}
+{"queries": "Alice Smith attended the TED Talk hosted by Facebook.", "labels": [{"text": "Alice Smith", "type": "PERSON"}, {"text": "TED Talk", "type": "EVENT"}, {"text": "Facebook", "type": "ORG"}]}
+{"queries": "Bob Johnson attended the Cannes Festival hosted by Facebook.", "labels": [{"text": "Bob Johnson", "type": "PERSON"}, {"text": "Cannes Festival", "type": "EVENT"}, {"text": "Facebook", "type": "ORG"}]}
+{"queries": "Every year, the SXSW is held in Toronto, attracting visitors worldwide.", "labels": [{"text": "SXSW", "type": "EVENT"}, {"text": "Toronto", "type": "CITY"}]}
+{"queries": "A wild lion was spotted near the Statue of Liberty in USA.", "labels": [{"text": "lion", "type": "ANIMAL"}, {"text": "Statue of Liberty", "type": "THING"}, {"text": "USA", "type": "COUNTRY"}]}
+{"queries": "A wild lion was spotted near the Big Ben in Germany.", "labels": [{"text": "lion", "type": "ANIMAL"}, {"text": "Big Ben", "type": "THING"}, {"text": "Germany", "type": "COUNTRY"}]}
+{"queries": "Microsoft donated millions to support education in UK.", "labels": [{"text": "Microsoft", "type": "ORG"}, {"text": "UK", "type": "COUNTRY"}]}
+{"queries": "Researchers at Apple discovered a new species of panda in USA.", "labels": [{"text": "Apple", "type": "ORG"}, {"text": "panda", "type": "ANIMAL"}, {"text": "USA", "type": "COUNTRY"}]}
+{"queries": "Bob Johnson, originally from Australia, now lives in Sydney.", "labels": [{"text": "Bob Johnson", "type": "PERSON"}, {"text": "Australia", "type": "COUNTRY"}, {"text": "Sydney", "type": "CITY"}]}
+{"queries": "The UNICEF headquarters are located in London, UK.", "labels": [{"text": "UNICEF", "type": "ORG"}, {"text": "London", "type": "CITY"}, {"text": "UK", "type": "COUNTRY"}]}
+{"queries": "During the World Cup, Carol White gave a speech at the Big Ben.", "labels": [{"text": "World Cup", "type": "EVENT"}, {"text": "Carol White", "type": "PERSON"}, {"text": "Big Ben", "type": "THING"}]}
+{"queries": "The Taj Mahal in New York was built in the 19th century.", "labels": [{"text": "Taj Mahal", "type": "THING"}, {"text": "New York", "type": "CITY"}]}
+{"queries": "During the Comic-Con, John Doe gave a speech at the Great Wall of China.", "labels": [{"text": "Comic-Con", "type": "EVENT"}, {"text": "John Doe", "type": "PERSON"}, {"text": "Great Wall of China", "type": "THING"}]}
+{"queries": "Henry Clark visited Toronto last summer to see the Mount Fuji.", "labels": [{"text": "Henry Clark", "type": "PERSON"}, {"text": "Toronto", "type": "CITY"}, {"text": "Mount Fuji", "type": "THING"}]}
+{"queries": "John Doe attended the Coachella hosted by WHO.", "labels": [{"text": "John Doe", "type": "PERSON"}, {"text": "Coachella", "type": "EVENT"}, {"text": "WHO", "type": "ORG"}]}
+{"queries": "Tourists love to take photos of the Mount Fuji near Paris.", "labels": [{"text": "Mount Fuji", "type": "THING"}, {"text": "Paris", "type": "CITY"}]}
+{"queries": "WHO launched its new Golden Gate Bridge in New York.", "labels": [{"text": "WHO", "type": "ORG"}, {"text": "Golden Gate Bridge", "type": "THING"}, {"text": "New York", "type": "CITY"}]}
+{"queries": "David Brown, originally from UK, now lives in Beijing.", "labels": [{"text": "David Brown", "type": "PERSON"}, {"text": "UK", "type": "COUNTRY"}, {"text": "Beijing", "type": "CITY"}]}
+{"queries": "Tourists love to take photos of the Big Ben near Beijing.", "labels": [{"text": "Big Ben", "type": "THING"}, {"text": "Beijing", "type": "CITY"}]}
+{"queries": "In Canada, people celebrate Cannes Festival with great enthusiasm.", "labels": [{"text": "Canada", "type": "COUNTRY"}, {"text": "Cannes Festival", "type": "EVENT"}]}
+{"queries": "Tourists love to take photos of the Eiffel Tower near New York.", "labels": [{"text": "Eiffel Tower", "type": "THING"}, {"text": "New York", "type": "CITY"}]}
+{"queries": "Bob Johnson adopted a dog named Rover.", "labels": [{"text": "Bob Johnson", "type": "PERSON"}, {"text": "dog", "type": "ANIMAL"}, {"text": "Rover", "type": "ANIMAL"}]}
+{"queries": "In Australia, people celebrate Olympic Games with great enthusiasm.", "labels": [{"text": "Australia", "type": "COUNTRY"}, {"text": "Olympic Games", "type": "EVENT"}]}
+{"queries": "The Facebook headquarters are located in Berlin, France.", "labels": [{"text": "Facebook", "type": "ORG"}, {"text": "Berlin", "type": "CITY"}, {"text": "France", "type": "COUNTRY"}]}
+{"queries": "Bob Johnson attended the Cannes Festival hosted by Apple.", "labels": [{"text": "Bob Johnson", "type": "PERSON"}, {"text": "Cannes Festival", "type": "EVENT"}, {"text": "Apple", "type": "ORG"}]}
+{"queries": "John Doe from Toronto works at Facebook.", "labels": [{"text": "John Doe", "type": "PERSON"}, {"text": "Toronto", "type": "CITY"}, {"text": "Facebook", "type": "ORG"}]}
+{"queries": "Alice Smith visited Sydney last summer to see the Colosseum.", "labels": [{"text": "Alice Smith", "type": "PERSON"}, {"text": "Sydney", "type": "CITY"}, {"text": "Colosseum", "type": "THING"}]}
+{"queries": "Tourists love to take photos of the Taj Mahal near Berlin.", "labels": [{"text": "Taj Mahal", "type": "THING"}, {"text": "Berlin", "type": "CITY"}]}
+{"queries": "Tourists love to take photos of the Colosseum near Rome.", "labels": [{"text": "Colosseum", "type": "THING"}, {"text": "Rome", "type": "CITY"}]}
+{"queries": "The IBM headquarters are located in Sydney, Spain.", "labels": [{"text": "IBM", "type": "ORG"}, {"text": "Sydney", "type": "CITY"}, {"text": "Spain", "type": "COUNTRY"}]}
+{"queries": "Tourists love to take photos of the Golden Gate Bridge near Paris.", "labels": [{"text": "Golden Gate Bridge", "type": "THING"}, {"text": "Paris", "type": "CITY"}]}
+{"queries": "Henry Clark, originally from UK, now lives in Tokyo.", "labels": [{"text": "Henry Clark", "type": "PERSON"}, {"text": "UK", "type": "COUNTRY"}, {"text": "Tokyo", "type": "CITY"}]}
+{"queries": "The painting Eiffel Tower was stolen from the Amazon museum in Tokyo.", "labels": [{"text": "Eiffel Tower", "type": "THING"}, {"text": "Amazon", "type": "ORG"}, {"text": "Tokyo", "type": "CITY"}]}
+{"queries": "The painting Great Wall of China was stolen from the Microsoft museum in Paris.", "labels": [{"text": "Great Wall of China", "type": "THING"}, {"text": "Microsoft", "type": "ORG"}, {"text": "Paris", "type": "CITY"}]}
+{"queries": "A wild elephant was spotted near the Taj Mahal in China.", "labels": [{"text": "elephant", "type": "ANIMAL"}, {"text": "Taj Mahal", "type": "THING"}, {"text": "China", "type": "COUNTRY"}]}
+{"queries": "In Italy, people celebrate Comic-Con with great enthusiasm.", "labels": [{"text": "Italy", "type": "COUNTRY"}, {"text": "Comic-Con", "type": "EVENT"}]}
+{"queries": "WHO launched its new Pyramids of Giza in London.", "labels": [{"text": "WHO", "type": "ORG"}, {"text": "Pyramids of Giza", "type": "THING"}, {"text": "London", "type": "CITY"}]}
+{"queries": "David Brown adopted a lion named Lucy.", "labels": [{"text": "David Brown", "type": "PERSON"}, {"text": "lion", "type": "ANIMAL"}, {"text": "Lucy", "type": "ANIMAL"}]}
+{"queries": "Carol White from Beijing works at Google.", "labels": [{"text": "Carol White", "type": "PERSON"}, {"text": "Beijing", "type": "CITY"}, {"text": "Google", "type": "ORG"}]}
+{"queries": "A wild dog was spotted near the Colosseum in UK.", "labels": [{"text": "dog", "type": "ANIMAL"}, {"text": "Colosseum", "type": "THING"}, {"text": "UK", "type": "COUNTRY"}]}
+{"queries": "During the Cannes Festival, Grace Lee gave a speech at the Statue of Liberty.", "labels": [{"text": "Cannes Festival", "type": "EVENT"}, {"text": "Grace Lee", "type": "PERSON"}, {"text": "Statue of Liberty", "type": "THING"}]}
+{"queries": "Bob Johnson, originally from USA, now lives in New York.", "labels": [{"text": "Bob Johnson", "type": "PERSON"}, {"text": "USA", "type": "COUNTRY"}, {"text": "New York", "type": "CITY"}]}
+{"queries": "Researchers at Tesla discovered a new species of dog in China.", "labels": [{"text": "Tesla", "type": "ORG"}, {"text": "dog", "type": "ANIMAL"}, {"text": "China", "type": "COUNTRY"}]}
+{"queries": "Bob Johnson adopted a lion named Rover.", "labels": [{"text": "Bob Johnson", "type": "PERSON"}, {"text": "lion", "type": "ANIMAL"}, {"text": "Rover", "type": "ANIMAL"}]}
+{"queries": "During the Cannes Festival, Bob Johnson gave a speech at the Mount Fuji.", "labels": [{"text": "Cannes Festival", "type": "EVENT"}, {"text": "Bob Johnson", "type": "PERSON"}, {"text": "Mount Fuji", "type": "THING"}]}
+{"queries": "The painting Pyramids of Giza was stolen from the Tesla museum in Paris.", "labels": [{"text": "Pyramids of Giza", "type": "THING"}, {"text": "Tesla", "type": "ORG"}, {"text": "Paris", "type": "CITY"}]}
+{"queries": "The Grand Canyon has become a symbol of Tokyo's history.", "labels": [{"text": "Grand Canyon", "type": "THING"}, {"text": "Tokyo", "type": "CITY"}]}
+{"queries": "John Doe visited Toronto last summer to see the Colosseum.", "labels": [{"text": "John Doe", "type": "PERSON"}, {"text": "Toronto", "type": "CITY"}, {"text": "Colosseum", "type": "THING"}]}
+{"queries": "Researchers at WHO discovered a new species of dolphin in Spain.", "labels": [{"text": "WHO", "type": "ORG"}, {"text": "dolphin", "type": "ANIMAL"}, {"text": "Spain", "type": "COUNTRY"}]}
+{"queries": "Alice Smith from Paris works at NASA.", "labels": [{"text": "Alice Smith", "type": "PERSON"}, {"text": "Paris", "type": "CITY"}, {"text": "NASA", "type": "ORG"}]}
+{"queries": "Irene Taylor attended the Coachella hosted by WHO.", "labels": [{"text": "Irene Taylor", "type": "PERSON"}, {"text": "Coachella", "type": "EVENT"}, {"text": "WHO", "type": "ORG"}]}
+{"queries": "In China, people celebrate TED Talk with great enthusiasm.", "labels": [{"text": "China", "type": "COUNTRY"}, {"text": "TED Talk", "type": "EVENT"}]}
+{"queries": "Every year, the TED Talk is held in New York, attracting visitors worldwide.", "labels": [{"text": "TED Talk", "type": "EVENT"}, {"text": "New York", "type": "CITY"}]}
+{"queries": "The Mount Fuji in Paris was built in the 19th century.", "labels": [{"text": "Mount Fuji", "type": "THING"}, {"text": "Paris", "type": "CITY"}]}
+{"queries": "Carol White, originally from USA, now lives in New York.", "labels": [{"text": "Carol White", "type": "PERSON"}, {"text": "USA", "type": "COUNTRY"}, {"text": "New York", "type": "CITY"}]}
+{"queries": "Frank Wilson adopted a panda named Lucy.", "labels": [{"text": "Frank Wilson", "type": "PERSON"}, {"text": "panda", "type": "ANIMAL"}, {"text": "Lucy", "type": "ANIMAL"}]}
+{"queries": "During the World Cup, John Doe gave a speech at the Eiffel Tower.", "labels": [{"text": "World Cup", "type": "EVENT"}, {"text": "John Doe", "type": "PERSON"}, {"text": "Eiffel Tower", "type": "THING"}]}
+{"queries": "Henry Clark attended the Cannes Festival hosted by Apple.", "labels": [{"text": "Henry Clark", "type": "PERSON"}, {"text": "Cannes Festival", "type": "EVENT"}, {"text": "Apple", "type": "ORG"}]}
+{"queries": "The Big Ben in Madrid was built in the 19th century.", "labels": [{"text": "Big Ben", "type": "THING"}, {"text": "Madrid", "type": "CITY"}]}
+{"queries": "The Pyramids of Giza in New York was built in the 19th century.", "labels": [{"text": "Pyramids of Giza", "type": "THING"}, {"text": "New York", "type": "CITY"}]}
+{"queries": "The Colosseum has become a symbol of London's history.", "labels": [{"text": "Colosseum", "type": "THING"}, {"text": "London", "type": "CITY"}]}
+{"queries": "Researchers at Tesla discovered a new species of bear in Canada.", "labels": [{"text": "Tesla", "type": "ORG"}, {"text": "bear", "type": "ANIMAL"}, {"text": "Canada", "type": "COUNTRY"}]}
+{"queries": "Every year, the Comic-Con is held in Rome, attracting visitors worldwide.", "labels": [{"text": "Comic-Con", "type": "EVENT"}, {"text": "Rome", "type": "CITY"}]}
+{"queries": "In Australia, people celebrate CES with great enthusiasm.", "labels": [{"text": "Australia", "type": "COUNTRY"}, {"text": "CES", "type": "EVENT"}]}
+{"queries": "During the Olympic Games, Henry Clark gave a speech at the Statue of Liberty.", "labels": [{"text": "Olympic Games", "type": "EVENT"}, {"text": "Henry Clark", "type": "PERSON"}, {"text": "Statue of Liberty", "type": "THING"}]}
+{"queries": "During the CES, Irene Taylor gave a speech at the Eiffel Tower.", "labels": [{"text": "CES", "type": "EVENT"}, {"text": "Irene Taylor", "type": "PERSON"}, {"text": "Eiffel Tower", "type": "THING"}]}
+{"queries": "Every year, the Coachella is held in London, attracting visitors worldwide.", "labels": [{"text": "Coachella", "type": "EVENT"}, {"text": "London", "type": "CITY"}]}
+{"queries": "UNICEF launched its new Grand Canyon in Beijing.", "labels": [{"text": "UNICEF", "type": "ORG"}, {"text": "Grand Canyon", "type": "THING"}, {"text": "Beijing", "type": "CITY"}]}
+{"queries": "The Statue of Liberty in Paris was built in the 19th century.", "labels": [{"text": "Statue of Liberty", "type": "THING"}, {"text": "Paris", "type": "CITY"}]}
+{"queries": "The Statue of Liberty in Paris was built in the 19th century.", "labels": [{"text": "Statue of Liberty", "type": "THING"}, {"text": "Paris", "type": "CITY"}]}
+{"queries": "A wild dolphin was spotted near the Mount Fuji in Canada.", "labels": [{"text": "dolphin", "type": "ANIMAL"}, {"text": "Mount Fuji", "type": "THING"}, {"text": "Canada", "type": "COUNTRY"}]}
+{"queries": "Microsoft donated millions to support education in Canada.", "labels": [{"text": "Microsoft", "type": "ORG"}, {"text": "Canada", "type": "COUNTRY"}]}
+{"queries": "During the CES, David Brown gave a speech at the Pyramids of Giza.", "labels": [{"text": "CES", "type": "EVENT"}, {"text": "David Brown", "type": "PERSON"}, {"text": "Pyramids of Giza", "type": "THING"}]}
+{"queries": "David Brown from Rome works at Amazon.", "labels": [{"text": "David Brown", "type": "PERSON"}, {"text": "Rome", "type": "CITY"}, {"text": "Amazon", "type": "ORG"}]}
+{"queries": "John Doe adopted a panda named Bella.", "labels": [{"text": "John Doe", "type": "PERSON"}, {"text": "panda", "type": "ANIMAL"}, {"text": "Bella", "type": "ANIMAL"}]}
+{"queries": "A wild bear was spotted near the Colosseum in USA.", "labels": [{"text": "bear", "type": "ANIMAL"}, {"text": "Colosseum", "type": "THING"}, {"text": "USA", "type": "COUNTRY"}]}
+{"queries": "Tourists love to take photos of the Mount Fuji near Toronto.", "labels": [{"text": "Mount Fuji", "type": "THING"}, {"text": "Toronto", "type": "CITY"}]}
+{"queries": "Emma Davis visited Rome last summer to see the Colosseum.", "labels": [{"text": "Emma Davis", "type": "PERSON"}, {"text": "Rome", "type": "CITY"}, {"text": "Colosseum", "type": "THING"}]}
+{"queries": "Alice Smith adopted a lion named Rover.", "labels": [{"text": "Alice Smith", "type": "PERSON"}, {"text": "lion", "type": "ANIMAL"}, {"text": "Rover", "type": "ANIMAL"}]}
+{"queries": "During the TED Talk, Bob Johnson gave a speech at the Grand Canyon.", "labels": [{"text": "TED Talk", "type": "EVENT"}, {"text": "Bob Johnson", "type": "PERSON"}, {"text": "Grand Canyon", "type": "THING"}]}
+{"queries": "Henry Clark attended the CES hosted by NASA.", "labels": [{"text": "Henry Clark", "type": "PERSON"}, {"text": "CES", "type": "EVENT"}, {"text": "NASA", "type": "ORG"}]}
+{"queries": "During the Coachella, Irene Taylor gave a speech at the Mount Fuji.", "labels": [{"text": "Coachella", "type": "EVENT"}, {"text": "Irene Taylor", "type": "PERSON"}, {"text": "Mount Fuji", "type": "THING"}]}
+{"queries": "Tesla launched its new Golden Gate Bridge in London.", "labels": [{"text": "Tesla", "type": "ORG"}, {"text": "Golden Gate Bridge", "type": "THING"}, {"text": "London", "type": "CITY"}]}
+{"queries": "Microsoft donated millions to support education in Canada.", "labels": [{"text": "Microsoft", "type": "ORG"}, {"text": "Canada", "type": "COUNTRY"}]}
+{"queries": "Researchers at Facebook discovered a new species of elephant in USA.", "labels": [{"text": "Facebook", "type": "ORG"}, {"text": "elephant", "type": "ANIMAL"}, {"text": "USA", "type": "COUNTRY"}]}
+{"queries": "During the Comic-Con, John Doe gave a speech at the Great Wall of China.", "labels": [{"text": "Comic-Con", "type": "EVENT"}, {"text": "John Doe", "type": "PERSON"}, {"text": "Great Wall of China", "type": "THING"}]}
+{"queries": "The Statue of Liberty in Beijing was built in the 19th century.", "labels": [{"text": "Statue of Liberty", "type": "THING"}, {"text": "Beijing", "type": "CITY"}]}
+{"queries": "John Doe adopted a lion named Max.", "labels": [{"text": "John Doe", "type": "PERSON"}, {"text": "lion", "type": "ANIMAL"}, {"text": "Max", "type": "ANIMAL"}]}
+{"queries": "NASA donated millions to support education in China.", "labels": [{"text": "NASA", "type": "ORG"}, {"text": "China", "type": "COUNTRY"}]}
+{"queries": "In Japan, people celebrate Olympic Games with great enthusiasm.", "labels": [{"text": "Japan", "type": "COUNTRY"}, {"text": "Olympic Games", "type": "EVENT"}]}
+{"queries": "In USA, people celebrate CES with great enthusiasm.", "labels": [{"text": "USA", "type": "COUNTRY"}, {"text": "CES", "type": "EVENT"}]}
+{"queries": "Bob Johnson, originally from Italy, now lives in New York.", "labels": [{"text": "Bob Johnson", "type": "PERSON"}, {"text": "Italy", "type": "COUNTRY"}, {"text": "New York", "type": "CITY"}]}
+{"queries": "Every year, the World Cup is held in Rome, attracting visitors worldwide.", "labels": [{"text": "World Cup", "type": "EVENT"}, {"text": "Rome", "type": "CITY"}]}
+{"queries": "Microsoft donated millions to support education in Japan.", "labels": [{"text": "Microsoft", "type": "ORG"}, {"text": "Japan", "type": "COUNTRY"}]}
+{"queries": "David Brown visited Toronto last summer to see the Big Ben.", "labels": [{"text": "David Brown", "type": "PERSON"}, {"text": "Toronto", "type": "CITY"}, {"text": "Big Ben", "type": "THING"}]}
+{"queries": "During the Comic-Con, Henry Clark gave a speech at the Mount Fuji.", "labels": [{"text": "Comic-Con", "type": "EVENT"}, {"text": "Henry Clark", "type": "PERSON"}, {"text": "Mount Fuji", "type": "THING"}]}
+{"queries": "During the CES, Henry Clark gave a speech at the Grand Canyon.", "labels": [{"text": "CES", "type": "EVENT"}, {"text": "Henry Clark", "type": "PERSON"}, {"text": "Grand Canyon", "type": "THING"}]}
+{"queries": "David Brown adopted a kangaroo named Charlie.", "labels": [{"text": "David Brown", "type": "PERSON"}, {"text": "kangaroo", "type": "ANIMAL"}, {"text": "Charlie", "type": "ANIMAL"}]}
+{"queries": "Facebook launched its new Statue of Liberty in Sydney.", "labels": [{"text": "Facebook", "type": "ORG"}, {"text": "Statue of Liberty", "type": "THING"}, {"text": "Sydney", "type": "CITY"}]}
+{"queries": "Carol White visited Beijing last summer to see the Grand Canyon.", "labels": [{"text": "Carol White", "type": "PERSON"}, {"text": "Beijing", "type": "CITY"}, {"text": "Grand Canyon", "type": "THING"}]}
+{"queries": "The Taj Mahal has become a symbol of New York's history.", "labels": [{"text": "Taj Mahal", "type": "THING"}, {"text": "New York", "type": "CITY"}]}
+{"queries": "John Doe, originally from Spain, now lives in Beijing.", "labels": [{"text": "John Doe", "type": "PERSON"}, {"text": "Spain", "type": "COUNTRY"}, {"text": "Beijing", "type": "CITY"}]}
+{"queries": "A wild dolphin was spotted near the Golden Gate Bridge in Germany.", "labels": [{"text": "dolphin", "type": "ANIMAL"}, {"text": "Golden Gate Bridge", "type": "THING"}, {"text": "Germany", "type": "COUNTRY"}]}
+{"queries": "David Brown visited Berlin last summer to see the Great Wall of China.", "labels": [{"text": "David Brown", "type": "PERSON"}, {"text": "Berlin", "type": "CITY"}, {"text": "Great Wall of China", "type": "THING"}]}
+{"queries": "A wild dolphin was spotted near the Grand Canyon in Spain.", "labels": [{"text": "dolphin", "type": "ANIMAL"}, {"text": "Grand Canyon", "type": "THING"}, {"text": "Spain", "type": "COUNTRY"}]}
+{"queries": "Grace Lee visited London last summer to see the Statue of Liberty.", "labels": [{"text": "Grace Lee", "type": "PERSON"}, {"text": "London", "type": "CITY"}, {"text": "Statue of Liberty", "type": "THING"}]}
+{"queries": "Alice Smith attended the Comic-Con hosted by Google.", "labels": [{"text": "Alice Smith", "type": "PERSON"}, {"text": "Comic-Con", "type": "EVENT"}, {"text": "Google", "type": "ORG"}]}
+{"queries": "John Doe from London works at UNICEF.", "labels": [{"text": "John Doe", "type": "PERSON"}, {"text": "London", "type": "CITY"}, {"text": "UNICEF", "type": "ORG"}]}
+{"queries": "Every year, the CES is held in Paris, attracting visitors worldwide.", "labels": [{"text": "CES", "type": "EVENT"}, {"text": "Paris", "type": "CITY"}]}
+{"queries": "Every year, the Coachella is held in Rome, attracting visitors worldwide.", "labels": [{"text": "Coachella", "type": "EVENT"}, {"text": "Rome", "type": "CITY"}]}
+{"queries": "Alice Smith adopted a elephant named Lucy.", "labels": [{"text": "Alice Smith", "type": "PERSON"}, {"text": "elephant", "type": "ANIMAL"}, {"text": "Lucy", "type": "ANIMAL"}]}
+{"queries": "The painting Colosseum was stolen from the Microsoft museum in Toronto.", "labels": [{"text": "Colosseum", "type": "THING"}, {"text": "Microsoft", "type": "ORG"}, {"text": "Toronto", "type": "CITY"}]}
+{"queries": "In France, people celebrate TED Talk with great enthusiasm.", "labels": [{"text": "France", "type": "COUNTRY"}, {"text": "TED Talk", "type": "EVENT"}]}
+{"queries": "Researchers at Google discovered a new species of bear in Australia.", "labels": [{"text": "Google", "type": "ORG"}, {"text": "bear", "type": "ANIMAL"}, {"text": "Australia", "type": "COUNTRY"}]}
+{"queries": "In USA, people celebrate CES with great enthusiasm.", "labels": [{"text": "USA", "type": "COUNTRY"}, {"text": "CES", "type": "EVENT"}]}
+{"queries": "Tourists love to take photos of the Mount Fuji near Toronto.", "labels": [{"text": "Mount Fuji", "type": "THING"}, {"text": "Toronto", "type": "CITY"}]}
+{"queries": "Every year, the Comic-Con is held in London, attracting visitors worldwide.", "labels": [{"text": "Comic-Con", "type": "EVENT"}, {"text": "London", "type": "CITY"}]}
+{"queries": "Grace Lee adopted a dog named Milo.", "labels": [{"text": "Grace Lee", "type": "PERSON"}, {"text": "dog", "type": "ANIMAL"}, {"text": "Milo", "type": "ANIMAL"}]}
+{"queries": "The Golden Gate Bridge in Berlin was built in the 19th century.", "labels": [{"text": "Golden Gate Bridge", "type": "THING"}, {"text": "Berlin", "type": "CITY"}]}
+{"queries": "John Doe adopted a tiger named Bella.", "labels": [{"text": "John Doe", "type": "PERSON"}, {"text": "tiger", "type": "ANIMAL"}, {"text": "Bella", "type": "ANIMAL"}]}
+{"queries": "Amazon donated millions to support education in Canada.", "labels": [{"text": "Amazon", "type": "ORG"}, {"text": "Canada", "type": "COUNTRY"}]}
+{"queries": "Frank Wilson adopted a cat named Daisy.", "labels": [{"text": "Frank Wilson", "type": "PERSON"}, {"text": "cat", "type": "ANIMAL"}, {"text": "Daisy", "type": "ANIMAL"}]}
+{"queries": "The Statue of Liberty has become a symbol of Beijing's history.", "labels": [{"text": "Statue of Liberty", "type": "THING"}, {"text": "Beijing", "type": "CITY"}]}
+{"queries": "The Mount Fuji has become a symbol of Madrid's history.", "labels": [{"text": "Mount Fuji", "type": "THING"}, {"text": "Madrid", "type": "CITY"}]}
+{"queries": "The Great Wall of China has become a symbol of Berlin's history.", "labels": [{"text": "Great Wall of China", "type": "THING"}, {"text": "Berlin", "type": "CITY"}]}
+{"queries": "A wild bear was spotted near the Pyramids of Giza in Australia.", "labels": [{"text": "bear", "type": "ANIMAL"}, {"text": "Pyramids of Giza", "type": "THING"}, {"text": "Australia", "type": "COUNTRY"}]}
+{"queries": "The Big Ben has become a symbol of Beijing's history.", "labels": [{"text": "Big Ben", "type": "THING"}, {"text": "Beijing", "type": "CITY"}]}
+{"queries": "The Eiffel Tower in Berlin was built in the 19th century.", "labels": [{"text": "Eiffel Tower", "type": "THING"}, {"text": "Berlin", "type": "CITY"}]}
+{"queries": "During the Olympic Games, Bob Johnson gave a speech at the Great Wall of China.", "labels": [{"text": "Olympic Games", "type": "EVENT"}, {"text": "Bob Johnson", "type": "PERSON"}, {"text": "Great Wall of China", "type": "THING"}]}
+{"queries": "The painting Mount Fuji was stolen from the Apple museum in Rome.", "labels": [{"text": "Mount Fuji", "type": "THING"}, {"text": "Apple", "type": "ORG"}, {"text": "Rome", "type": "CITY"}]}
+{"queries": "Tourists love to take photos of the Grand Canyon near Sydney.", "labels": [{"text": "Grand Canyon", "type": "THING"}, {"text": "Sydney", "type": "CITY"}]}
+{"queries": "UNICEF launched its new Golden Gate Bridge in Rome.", "labels": [{"text": "UNICEF", "type": "ORG"}, {"text": "Golden Gate Bridge", "type": "THING"}, {"text": "Rome", "type": "CITY"}]}
+{"queries": "Tesla launched its new Grand Canyon in London.", "labels": [{"text": "Tesla", "type": "ORG"}, {"text": "Grand Canyon", "type": "THING"}, {"text": "London", "type": "CITY"}]}
+{"queries": "Apple donated millions to support education in Canada.", "labels": [{"text": "Apple", "type": "ORG"}, {"text": "Canada", "type": "COUNTRY"}]}
+{"queries": "Amazon launched its new Pyramids of Giza in New York.", "labels": [{"text": "Amazon", "type": "ORG"}, {"text": "Pyramids of Giza", "type": "THING"}, {"text": "New York", "type": "CITY"}]}
+{"queries": "The Golden Gate Bridge has become a symbol of Toronto's history.", "labels": [{"text": "Golden Gate Bridge", "type": "THING"}, {"text": "Toronto", "type": "CITY"}]}
+{"queries": "The Eiffel Tower has become a symbol of New York's history.", "labels": [{"text": "Eiffel Tower", "type": "THING"}, {"text": "New York", "type": "CITY"}]}
+{"queries": "Tourists love to take photos of the Great Wall of China near Paris.", "labels": [{"text": "Great Wall of China", "type": "THING"}, {"text": "Paris", "type": "CITY"}]}
+{"queries": "Henry Clark attended the Olympic Games hosted by Amazon.", "labels": [{"text": "Henry Clark", "type": "PERSON"}, {"text": "Olympic Games", "type": "EVENT"}, {"text": "Amazon", "type": "ORG"}]}
+{"queries": "During the Coachella, Emma Davis gave a speech at the Big Ben.", "labels": [{"text": "Coachella", "type": "EVENT"}, {"text": "Emma Davis", "type": "PERSON"}, {"text": "Big Ben", "type": "THING"}]}
+{"queries": "Alice Smith attended the SXSW hosted by IBM.", "labels": [{"text": "Alice Smith", "type": "PERSON"}, {"text": "SXSW", "type": "EVENT"}, {"text": "IBM", "type": "ORG"}]}
+{"queries": "Carol White visited Berlin last summer to see the Big Ben.", "labels": [{"text": "Carol White", "type": "PERSON"}, {"text": "Berlin", "type": "CITY"}, {"text": "Big Ben", "type": "THING"}]}
+{"queries": "The painting Eiffel Tower was stolen from the Facebook museum in Berlin.", "labels": [{"text": "Eiffel Tower", "type": "THING"}, {"text": "Facebook", "type": "ORG"}, {"text": "Berlin", "type": "CITY"}]}
+{"queries": "The Colosseum has become a symbol of Sydney's history.", "labels": [{"text": "Colosseum", "type": "THING"}, {"text": "Sydney", "type": "CITY"}]}
+{"queries": "Emma Davis from Tokyo works at Google.", "labels": [{"text": "Emma Davis", "type": "PERSON"}, {"text": "Tokyo", "type": "CITY"}, {"text": "Google", "type": "ORG"}]}
+{"queries": "The painting Statue of Liberty was stolen from the Apple museum in Berlin.", "labels": [{"text": "Statue of Liberty", "type": "THING"}, {"text": "Apple", "type": "ORG"}, {"text": "Berlin", "type": "CITY"}]}
+{"queries": "Frank Wilson attended the TED Talk hosted by Google.", "labels": [{"text": "Frank Wilson", "type": "PERSON"}, {"text": "TED Talk", "type": "EVENT"}, {"text": "Google", "type": "ORG"}]}
+{"queries": "The Grand Canyon has become a symbol of Beijing's history.", "labels": [{"text": "Grand Canyon", "type": "THING"}, {"text": "Beijing", "type": "CITY"}]}
+{"queries": "Tourists love to take photos of the Big Ben near New York.", "labels": [{"text": "Big Ben", "type": "THING"}, {"text": "New York", "type": "CITY"}]}
+{"queries": "Alice Smith, originally from USA, now lives in New York.", "labels": [{"text": "Alice Smith", "type": "PERSON"}, {"text": "USA", "type": "COUNTRY"}, {"text": "New York", "type": "CITY"}]}
+{"queries": "The Taj Mahal in Paris was built in the 19th century.", "labels": [{"text": "Taj Mahal", "type": "THING"}, {"text": "Paris", "type": "CITY"}]}
+{"queries": "Tourists love to take photos of the Golden Gate Bridge near New York.", "labels": [{"text": "Golden Gate Bridge", "type": "THING"}, {"text": "New York", "type": "CITY"}]}
+{"queries": "Irene Taylor attended the Olympic Games hosted by WHO.", "labels": [{"text": "Irene Taylor", "type": "PERSON"}, {"text": "Olympic Games", "type": "EVENT"}, {"text": "WHO", "type": "ORG"}]}
+{"queries": "Henry Clark attended the Cannes Festival hosted by Tesla.", "labels": [{"text": "Henry Clark", "type": "PERSON"}, {"text": "Cannes Festival", "type": "EVENT"}, {"text": "Tesla", "type": "ORG"}]}
+{"queries": "Henry Clark visited Rome last summer to see the Taj Mahal.", "labels": [{"text": "Henry Clark", "type": "PERSON"}, {"text": "Rome", "type": "CITY"}, {"text": "Taj Mahal", "type": "THING"}]}
+{"queries": "In Japan, people celebrate Comic-Con with great enthusiasm.", "labels": [{"text": "Japan", "type": "COUNTRY"}, {"text": "Comic-Con", "type": "EVENT"}]}
+{"queries": "David Brown, originally from France, now lives in Madrid.", "labels": [{"text": "David Brown", "type": "PERSON"}, {"text": "France", "type": "COUNTRY"}, {"text": "Madrid", "type": "CITY"}]}
+{"queries": "Bob Johnson visited Madrid last summer to see the Statue of Liberty.", "labels": [{"text": "Bob Johnson", "type": "PERSON"}, {"text": "Madrid", "type": "CITY"}, {"text": "Statue of Liberty", "type": "THING"}]}
+{"queries": "Tourists love to take photos of the Eiffel Tower near London.", "labels": [{"text": "Eiffel Tower", "type": "THING"}, {"text": "London", "type": "CITY"}]}
+{"queries": "During the Olympic Games, Emma Davis gave a speech at the Golden Gate Bridge.", "labels": [{"text": "Olympic Games", "type": "EVENT"}, {"text": "Emma Davis", "type": "PERSON"}, {"text": "Golden Gate Bridge", "type": "THING"}]}
+{"queries": "The Grand Canyon in Toronto was built in the 19th century.", "labels": [{"text": "Grand Canyon", "type": "THING"}, {"text": "Toronto", "type": "CITY"}]}
+{"queries": "The Facebook headquarters are located in Tokyo, Germany.", "labels": [{"text": "Facebook", "type": "ORG"}, {"text": "Tokyo", "type": "CITY"}, {"text": "Germany", "type": "COUNTRY"}]}
+{"queries": "Emma Davis attended the Olympic Games hosted by Facebook.", "labels": [{"text": "Emma Davis", "type": "PERSON"}, {"text": "Olympic Games", "type": "EVENT"}, {"text": "Facebook", "type": "ORG"}]}
+{"queries": "Facebook launched its new Eiffel Tower in Toronto.", "labels": [{"text": "Facebook", "type": "ORG"}, {"text": "Eiffel Tower", "type": "THING"}, {"text": "Toronto", "type": "CITY"}]}
+{"queries": "Irene Taylor, originally from UK, now lives in London.", "labels": [{"text": "Irene Taylor", "type": "PERSON"}, {"text": "UK", "type": "COUNTRY"}, {"text": "London", "type": "CITY"}]}
+{"queries": "During the Olympic Games, Henry Clark gave a speech at the Golden Gate Bridge.", "labels": [{"text": "Olympic Games", "type": "EVENT"}, {"text": "Henry Clark", "type": "PERSON"}, {"text": "Golden Gate Bridge", "type": "THING"}]}
+{"queries": "Every year, the SXSW is held in Tokyo, attracting visitors worldwide.", "labels": [{"text": "SXSW", "type": "EVENT"}, {"text": "Tokyo", "type": "CITY"}]}
+{"queries": "Tourists love to take photos of the Golden Gate Bridge near Sydney.", "labels": [{"text": "Golden Gate Bridge", "type": "THING"}, {"text": "Sydney", "type": "CITY"}]}
+{"queries": "During the World Cup, Frank Wilson gave a speech at the Pyramids of Giza.", "labels": [{"text": "World Cup", "type": "EVENT"}, {"text": "Frank Wilson", "type": "PERSON"}, {"text": "Pyramids of Giza", "type": "THING"}]}
+{"queries": "During the Cannes Festival, John Doe gave a speech at the Statue of Liberty.", "labels": [{"text": "Cannes Festival", "type": "EVENT"}, {"text": "John Doe", "type": "PERSON"}, {"text": "Statue of Liberty", "type": "THING"}]}
+{"queries": "Irene Taylor, originally from France, now lives in Beijing.", "labels": [{"text": "Irene Taylor", "type": "PERSON"}, {"text": "France", "type": "COUNTRY"}, {"text": "Beijing", "type": "CITY"}]}
+{"queries": "The Tesla headquarters are located in Tokyo, Australia.", "labels": [{"text": "Tesla", "type": "ORG"}, {"text": "Tokyo", "type": "CITY"}, {"text": "Australia", "type": "COUNTRY"}]}
+{"queries": "A wild elephant was spotted near the Eiffel Tower in China.", "labels": [{"text": "elephant", "type": "ANIMAL"}, {"text": "Eiffel Tower", "type": "THING"}, {"text": "China", "type": "COUNTRY"}]}
+{"queries": "The IBM headquarters are located in Berlin, Italy.", "labels": [{"text": "IBM", "type": "ORG"}, {"text": "Berlin", "type": "CITY"}, {"text": "Italy", "type": "COUNTRY"}]}
+{"queries": "In France, people celebrate World Cup with great enthusiasm.", "labels": [{"text": "France", "type": "COUNTRY"}, {"text": "World Cup", "type": "EVENT"}]}
+{"queries": "Researchers at IBM discovered a new species of eagle in Spain.", "labels": [{"text": "IBM", "type": "ORG"}, {"text": "eagle", "type": "ANIMAL"}, {"text": "Spain", "type": "COUNTRY"}]}
+{"queries": "Facebook launched its new Mount Fuji in Berlin.", "labels": [{"text": "Facebook", "type": "ORG"}, {"text": "Mount Fuji", "type": "THING"}, {"text": "Berlin", "type": "CITY"}]}
+{"queries": "WHO donated millions to support education in USA.", "labels": [{"text": "WHO", "type": "ORG"}, {"text": "USA", "type": "COUNTRY"}]}
+{"queries": "In UK, people celebrate Coachella with great enthusiasm.", "labels": [{"text": "UK", "type": "COUNTRY"}, {"text": "Coachella", "type": "EVENT"}]}
+{"queries": "Carol White visited Paris last summer to see the Pyramids of Giza.", "labels": [{"text": "Carol White", "type": "PERSON"}, {"text": "Paris", "type": "CITY"}, {"text": "Pyramids of Giza", "type": "THING"}]}
+{"queries": "A wild tiger was spotted near the Eiffel Tower in Canada.", "labels": [{"text": "tiger", "type": "ANIMAL"}, {"text": "Eiffel Tower", "type": "THING"}, {"text": "Canada", "type": "COUNTRY"}]}
+{"queries": "Emma Davis, originally from France, now lives in Beijing.", "labels": [{"text": "Emma Davis", "type": "PERSON"}, {"text": "France", "type": "COUNTRY"}, {"text": "Beijing", "type": "CITY"}]}
+{"queries": "John Doe attended the TED Talk hosted by Amazon.", "labels": [{"text": "John Doe", "type": "PERSON"}, {"text": "TED Talk", "type": "EVENT"}, {"text": "Amazon", "type": "ORG"}]}
+{"queries": "A wild dog was spotted near the Taj Mahal in UK.", "labels": [{"text": "dog", "type": "ANIMAL"}, {"text": "Taj Mahal", "type": "THING"}, {"text": "UK", "type": "COUNTRY"}]}
+{"queries": "IBM donated millions to support education in Germany.", "labels": [{"text": "IBM", "type": "ORG"}, {"text": "Germany", "type": "COUNTRY"}]}
+{"queries": "Bob Johnson, originally from France, now lives in London.", "labels": [{"text": "Bob Johnson", "type": "PERSON"}, {"text": "France", "type": "COUNTRY"}, {"text": "London", "type": "CITY"}]}
+{"queries": "David Brown visited Sydney last summer to see the Golden Gate Bridge.", "labels": [{"text": "David Brown", "type": "PERSON"}, {"text": "Sydney", "type": "CITY"}, {"text": "Golden Gate Bridge", "type": "THING"}]}
+{"queries": "Bob Johnson adopted a eagle named Oscar.", "labels": [{"text": "Bob Johnson", "type": "PERSON"}, {"text": "eagle", "type": "ANIMAL"}, {"text": "Oscar", "type": "ANIMAL"}]}
+{"queries": "Emma Davis visited Berlin last summer to see the Pyramids of Giza.", "labels": [{"text": "Emma Davis", "type": "PERSON"}, {"text": "Berlin", "type": "CITY"}, {"text": "Pyramids of Giza", "type": "THING"}]}
+{"queries": "A wild tiger was spotted near the Great Wall of China in USA.", "labels": [{"text": "tiger", "type": "ANIMAL"}, {"text": "Great Wall of China", "type": "THING"}, {"text": "USA", "type": "COUNTRY"}]}
+{"queries": "Tourists love to take photos of the Great Wall of China near Tokyo.", "labels": [{"text": "Great Wall of China", "type": "THING"}, {"text": "Tokyo", "type": "CITY"}]}
+{"queries": "Researchers at Apple discovered a new species of elephant in Japan.", "labels": [{"text": "Apple", "type": "ORG"}, {"text": "elephant", "type": "ANIMAL"}, {"text": "Japan", "type": "COUNTRY"}]}
+{"queries": "UNICEF donated millions to support education in Japan.", "labels": [{"text": "UNICEF", "type": "ORG"}, {"text": "Japan", "type": "COUNTRY"}]}
+{"queries": "The NASA headquarters are located in Tokyo, Spain.", "labels": [{"text": "NASA", "type": "ORG"}, {"text": "Tokyo", "type": "CITY"}, {"text": "Spain", "type": "COUNTRY"}]}
+{"queries": "Bob Johnson attended the Comic-Con hosted by Amazon.", "labels": [{"text": "Bob Johnson", "type": "PERSON"}, {"text": "Comic-Con", "type": "EVENT"}, {"text": "Amazon", "type": "ORG"}]}
+{"queries": "The Mount Fuji in Beijing was built in the 19th century.", "labels": [{"text": "Mount Fuji", "type": "THING"}, {"text": "Beijing", "type": "CITY"}]}
+{"queries": "Facebook launched its new Grand Canyon in Tokyo.", "labels": [{"text": "Facebook", "type": "ORG"}, {"text": "Grand Canyon", "type": "THING"}, {"text": "Tokyo", "type": "CITY"}]}
+{"queries": "A wild lion was spotted near the Statue of Liberty in France.", "labels": [{"text": "lion", "type": "ANIMAL"}, {"text": "Statue of Liberty", "type": "THING"}, {"text": "France", "type": "COUNTRY"}]}
+{"queries": "WHO launched its new Mount Fuji in Berlin.", "labels": [{"text": "WHO", "type": "ORG"}, {"text": "Mount Fuji", "type": "THING"}, {"text": "Berlin", "type": "CITY"}]}
+{"queries": "UNICEF launched its new Colosseum in Tokyo.", "labels": [{"text": "UNICEF", "type": "ORG"}, {"text": "Colosseum", "type": "THING"}, {"text": "Tokyo", "type": "CITY"}]}
+{"queries": "The Great Wall of China has become a symbol of Tokyo's history.", "labels": [{"text": "Great Wall of China", "type": "THING"}, {"text": "Tokyo", "type": "CITY"}]}
+{"queries": "Every year, the Comic-Con is held in Beijing, attracting visitors worldwide.", "labels": [{"text": "Comic-Con", "type": "EVENT"}, {"text": "Beijing", "type": "CITY"}]}
+{"queries": "Researchers at Google discovered a new species of lion in Italy.", "labels": [{"text": "Google", "type": "ORG"}, {"text": "lion", "type": "ANIMAL"}, {"text": "Italy", "type": "COUNTRY"}]}
+{"queries": "Irene Taylor visited Sydney last summer to see the Golden Gate Bridge.", "labels": [{"text": "Irene Taylor", "type": "PERSON"}, {"text": "Sydney", "type": "CITY"}, {"text": "Golden Gate Bridge", "type": "THING"}]}
+{"queries": "Tourists love to take photos of the Grand Canyon near New York.", "labels": [{"text": "Grand Canyon", "type": "THING"}, {"text": "New York", "type": "CITY"}]}
+{"queries": "The painting Mount Fuji was stolen from the Tesla museum in New York.", "labels": [{"text": "Mount Fuji", "type": "THING"}, {"text": "Tesla", "type": "ORG"}, {"text": "New York", "type": "CITY"}]}
+{"queries": "The Pyramids of Giza in Toronto was built in the 19th century.", "labels": [{"text": "Pyramids of Giza", "type": "THING"}, {"text": "Toronto", "type": "CITY"}]}
+{"queries": "Every year, the TED Talk is held in Tokyo, attracting visitors worldwide.", "labels": [{"text": "TED Talk", "type": "EVENT"}, {"text": "Tokyo", "type": "CITY"}]}
+{"queries": "During the World Cup, David Brown gave a speech at the Statue of Liberty.", "labels": [{"text": "World Cup", "type": "EVENT"}, {"text": "David Brown", "type": "PERSON"}, {"text": "Statue of Liberty", "type": "THING"}]}
+{"queries": "Carol White attended the Comic-Con hosted by Apple.", "labels": [{"text": "Carol White", "type": "PERSON"}, {"text": "Comic-Con", "type": "EVENT"}, {"text": "Apple", "type": "ORG"}]}
+{"queries": "During the SXSW, David Brown gave a speech at the Eiffel Tower.", "labels": [{"text": "SXSW", "type": "EVENT"}, {"text": "David Brown", "type": "PERSON"}, {"text": "Eiffel Tower", "type": "THING"}]}
+{"queries": "Bob Johnson, originally from Germany, now lives in Rome.", "labels": [{"text": "Bob Johnson", "type": "PERSON"}, {"text": "Germany", "type": "COUNTRY"}, {"text": "Rome", "type": "CITY"}]}
+{"queries": "Every year, the Cannes Festival is held in Sydney, attracting visitors worldwide.", "labels": [{"text": "Cannes Festival", "type": "EVENT"}, {"text": "Sydney", "type": "CITY"}]}
+{"queries": "Every year, the TED Talk is held in London, attracting visitors worldwide.", "labels": [{"text": "TED Talk", "type": "EVENT"}, {"text": "London", "type": "CITY"}]}
+{"queries": "Emma Davis from New York works at Apple.", "labels": [{"text": "Emma Davis", "type": "PERSON"}, {"text": "New York", "type": "CITY"}, {"text": "Apple", "type": "ORG"}]}
+{"queries": "Alice Smith adopted a tiger named Rover.", "labels": [{"text": "Alice Smith", "type": "PERSON"}, {"text": "tiger", "type": "ANIMAL"}, {"text": "Rover", "type": "ANIMAL"}]}
+{"queries": "Every year, the Cannes Festival is held in New York, attracting visitors worldwide.", "labels": [{"text": "Cannes Festival", "type": "EVENT"}, {"text": "New York", "type": "CITY"}]}
+{"queries": "A wild dog was spotted near the Eiffel Tower in UK.", "labels": [{"text": "dog", "type": "ANIMAL"}, {"text": "Eiffel Tower", "type": "THING"}, {"text": "UK", "type": "COUNTRY"}]}
+{"queries": "During the TED Talk, Emma Davis gave a speech at the Golden Gate Bridge.", "labels": [{"text": "TED Talk", "type": "EVENT"}, {"text": "Emma Davis", "type": "PERSON"}, {"text": "Golden Gate Bridge", "type": "THING"}]}
+{"queries": "A wild elephant was spotted near the Colosseum in UK.", "labels": [{"text": "elephant", "type": "ANIMAL"}, {"text": "Colosseum", "type": "THING"}, {"text": "UK", "type": "COUNTRY"}]}
+{"queries": "The painting Great Wall of China was stolen from the IBM museum in Paris.", "labels": [{"text": "Great Wall of China", "type": "THING"}, {"text": "IBM", "type": "ORG"}, {"text": "Paris", "type": "CITY"}]}
+{"queries": "Frank Wilson adopted a eagle named Charlie.", "labels": [{"text": "Frank Wilson", "type": "PERSON"}, {"text": "eagle", "type": "ANIMAL"}, {"text": "Charlie", "type": "ANIMAL"}]}
+{"queries": "The WHO headquarters are located in Rome, Japan.", "labels": [{"text": "WHO", "type": "ORG"}, {"text": "Rome", "type": "CITY"}, {"text": "Japan", "type": "COUNTRY"}]}
+{"queries": "Irene Taylor attended the TED Talk hosted by Amazon.", "labels": [{"text": "Irene Taylor", "type": "PERSON"}, {"text": "TED Talk", "type": "EVENT"}, {"text": "Amazon", "type": "ORG"}]}
+{"queries": "John Doe attended the Coachella hosted by WHO.", "labels": [{"text": "John Doe", "type": "PERSON"}, {"text": "Coachella", "type": "EVENT"}, {"text": "WHO", "type": "ORG"}]}
+{"queries": "Every year, the Coachella is held in Paris, attracting visitors worldwide.", "labels": [{"text": "Coachella", "type": "EVENT"}, {"text": "Paris", "type": "CITY"}]}
+{"queries": "David Brown attended the CES hosted by Google.", "labels": [{"text": "David Brown", "type": "PERSON"}, {"text": "CES", "type": "EVENT"}, {"text": "Google", "type": "ORG"}]}
+{"queries": "UNICEF donated millions to support education in USA.", "labels": [{"text": "UNICEF", "type": "ORG"}, {"text": "USA", "type": "COUNTRY"}]}
+{"queries": "In UK, people celebrate World Cup with great enthusiasm.", "labels": [{"text": "UK", "type": "COUNTRY"}, {"text": "World Cup", "type": "EVENT"}]}
+{"queries": "Bob Johnson visited Berlin last summer to see the Golden Gate Bridge.", "labels": [{"text": "Bob Johnson", "type": "PERSON"}, {"text": "Berlin", "type": "CITY"}, {"text": "Golden Gate Bridge", "type": "THING"}]}
+{"queries": "A wild lion was spotted near the Mount Fuji in Australia.", "labels": [{"text": "lion", "type": "ANIMAL"}, {"text": "Mount Fuji", "type": "THING"}, {"text": "Australia", "type": "COUNTRY"}]}
+{"queries": "Bob Johnson visited London last summer to see the Taj Mahal.", "labels": [{"text": "Bob Johnson", "type": "PERSON"}, {"text": "London", "type": "CITY"}, {"text": "Taj Mahal", "type": "THING"}]}
+{"queries": "Google launched its new Grand Canyon in Madrid.", "labels": [{"text": "Google", "type": "ORG"}, {"text": "Grand Canyon", "type": "THING"}, {"text": "Madrid", "type": "CITY"}]}
+{"queries": "During the World Cup, Bob Johnson gave a speech at the Statue of Liberty.", "labels": [{"text": "World Cup", "type": "EVENT"}, {"text": "Bob Johnson", "type": "PERSON"}, {"text": "Statue of Liberty", "type": "THING"}]}
+{"queries": "The Apple headquarters are located in Sydney, China.", "labels": [{"text": "Apple", "type": "ORG"}, {"text": "Sydney", "type": "CITY"}, {"text": "China", "type": "COUNTRY"}]}
+{"queries": "The Mount Fuji in Paris was built in the 19th century.", "labels": [{"text": "Mount Fuji", "type": "THING"}, {"text": "Paris", "type": "CITY"}]}
+{"queries": "The Statue of Liberty has become a symbol of Berlin's history.", "labels": [{"text": "Statue of Liberty", "type": "THING"}, {"text": "Berlin", "type": "CITY"}]}
+{"queries": "Every year, the Olympic Games is held in New York, attracting visitors worldwide.", "labels": [{"text": "Olympic Games", "type": "EVENT"}, {"text": "New York", "type": "CITY"}]}
+{"queries": "The Eiffel Tower in Toronto was built in the 19th century.", "labels": [{"text": "Eiffel Tower", "type": "THING"}, {"text": "Toronto", "type": "CITY"}]}
+{"queries": "A wild lion was spotted near the Great Wall of China in Canada.", "labels": [{"text": "lion", "type": "ANIMAL"}, {"text": "Great Wall of China", "type": "THING"}, {"text": "Canada", "type": "COUNTRY"}]}
+{"queries": "Every year, the Comic-Con is held in Toronto, attracting visitors worldwide.", "labels": [{"text": "Comic-Con", "type": "EVENT"}, {"text": "Toronto", "type": "CITY"}]}
+{"queries": "Facebook donated millions to support education in China.", "labels": [{"text": "Facebook", "type": "ORG"}, {"text": "China", "type": "COUNTRY"}]}
+{"queries": "Every year, the SXSW is held in Tokyo, attracting visitors worldwide.", "labels": [{"text": "SXSW", "type": "EVENT"}, {"text": "Tokyo", "type": "CITY"}]}
+{"queries": "Emma Davis, originally from Australia, now lives in Paris.", "labels": [{"text": "Emma Davis", "type": "PERSON"}, {"text": "Australia", "type": "COUNTRY"}, {"text": "Paris", "type": "CITY"}]}
+{"queries": "Apple launched its new Mount Fuji in Berlin.", "labels": [{"text": "Apple", "type": "ORG"}, {"text": "Mount Fuji", "type": "THING"}, {"text": "Berlin", "type": "CITY"}]}
+{"queries": "Tesla launched its new Taj Mahal in New York.", "labels": [{"text": "Tesla", "type": "ORG"}, {"text": "Taj Mahal", "type": "THING"}, {"text": "New York", "type": "CITY"}]}
+{"queries": "The painting Great Wall of China was stolen from the Facebook museum in New York.", "labels": [{"text": "Great Wall of China", "type": "THING"}, {"text": "Facebook", "type": "ORG"}, {"text": "New York", "type": "CITY"}]}
+{"queries": "Carol White attended the SXSW hosted by Google.", "labels": [{"text": "Carol White", "type": "PERSON"}, {"text": "SXSW", "type": "EVENT"}, {"text": "Google", "type": "ORG"}]}
+{"queries": "Tourists love to take photos of the Eiffel Tower near Toronto.", "labels": [{"text": "Eiffel Tower", "type": "THING"}, {"text": "Toronto", "type": "CITY"}]}
+{"queries": "Researchers at Tesla discovered a new species of cat in China.", "labels": [{"text": "Tesla", "type": "ORG"}, {"text": "cat", "type": "ANIMAL"}, {"text": "China", "type": "COUNTRY"}]}
